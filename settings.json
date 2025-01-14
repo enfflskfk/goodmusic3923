@@ -2,11 +2,11 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 7,
-            "이름": "1.0.7",
-            "날짜": "2024년 2월 20일 오전 3시",
-            "패키지": "com.musicyeong.pmusic",
-            "패키지주소": "com.musicyeong.pmusic",
+            "코드": 1,
+            "이름": "1.0.1",
+            "날짜": "2025년 1월 15일 오전 3시",
+            "패키지": "com.goodmusic.music",
+            "패키지주소": "com.goodmusic.music",
             "버전메세지": {
                 "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
                 "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 재생 및 다운로드 오류 수정."
