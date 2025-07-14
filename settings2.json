@@ -1,0 +1,137 @@
+{
+    "언어": "모든언어",
+    "앱설정": {
+        "버전": {
+            "코드": 5,
+            "이름": "1.0.5",
+            "날짜": "2025년 3월 14일 오전 3시",
+            "패키지": "com.goodmusic.music",
+            "패키지주소": "com.goodmusic.music",
+            "버전메세지": {
+                "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
+                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 재생 및 다운로드 오류 수정."
+            }
+        },
+        "리뷰":{
+            "사용": false,
+            "카운트": 5
+        },
+        "페이지뷰": {
+            "금성": {
+                "사용": true,
+                "이름": "금성"
+            },
+            "목성": {
+                "사용": true,
+                "이름": "목성",
+                "파서": {
+                    "URL": "https://new.myfreemp3juices.cc/api/api_search.php?callback="
+                }
+            },
+            "수성": {
+                "사용": false,
+                "이름": "수성"
+            },
+            "지구": {
+                "사용": true,
+                "앨범": true,
+                "이름": "지구",
+                "파서": {
+                    "비디오항목1": "videoWithContextRenderer",
+                    "제목항목2": "headline",
+                    "영화구분3": "shortBylineText"
+                },
+                "요청": {
+                    "USER-AGENT": "asdasdads",
+                    "API-KEY": "",
+                    "VERSION":"",
+                    "Agent":"com.google.ios.youtube/19.45.4 (iPhone16,2; U; CPU iOS 18_1_0 like Mac OS X; US)",
+                    "주소":"https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+                    "정보":"{'videoId': 'code', 'contentCheckOk': true, 'context': {'client': {'clientName': 'IOS', 'clientVersion': '19.45.4', 'deviceMake': 'Apple', 'deviceModel': 'iPhone16,2', 'platform': 'MOBILE', 'osName': 'IOS', 'osVersion': '18.1.0.22B83', 'visitorData': '수시변동', 'hl': 'en', 'gl': 'US', 'utcOffsetMinutes': 0}}}"
+                }
+            }
+        },
+        "광고": {
+            "애드몹": {
+                "사용":true,
+                "오픈광고": {
+                    "사용여부": true,
+                    "노출횟수": 2,
+                    "노출시간": 180,
+                    "미리로드": true,
+                    "광고코드": "ca-app-pub-4595653505234820/5897252560",
+                    "통과타이머": 7000
+                },
+                "전면광고": {
+                    "사용여부": true,
+                    "노출횟수": 10,
+                    "미리로드": false,
+                    "하루한번": true,
+                    "광고코드": "ca-app-pub-4595653505234820/4071404696",
+                    "광고노출다운로드시작전": false,
+                    "다운완료버튼클릭광고노출": true,
+                    "광고문구삽입": true
+                },
+                "보상형전면광고": {
+                    "사용여부": true,
+                    "노출횟수": 5,
+                    "미리로드": false,
+                    "하루한번": true,
+                    "광고코드": "ca-app-pub-4595653505234820/4334369741",
+                    "다운완료버튼클릭광고노출": true,
+                    "광고문구삽입": true
+                },
+                "벨소리전면광고": {
+                    "사용여부":false,
+                    "미리로드":false,
+                    "광고코드":"ca-app-pub-4595653505234820/2638903526"
+                },
+                "배너광고":{
+                    "사용여부":false,
+                    "광고코드":"ca-app-pub-0724732887436086/3161301022"
+                },
+                "벨소리배너광고":{
+                    "사용여부":false,
+                    "광고코드":"ca-app-pub-4595653505234820/6356417562"
+                }
+            },
+            "페이스북":{
+                "사용":false,
+                "전면광고":{
+                    "사용여부": true,
+                    "노출횟수":10,
+                    "미리로드":true,
+                    "광고코드":"1092490745291993_1092493051958429"
+                },
+                "배너광고":{
+                    "사용여부": false,
+                    "광고코드":"315478100726603_317318337209246"
+                },
+                "벨소리전면광고":{
+                    "사용여부":false,
+                    "미리로드":true,
+                    "광고코드":"710880043530785_824955238789931"
+                },
+                "벨소리배너광고":{
+                    "사용여부":false,
+                    "광고코드":"710880043530785_824955762123212"
+                }
+            },
+            "유니티":{
+                "사용":false,
+                "ID":"4777973",
+                "전면광고":{
+                    "사용여부": true,
+                    "노출횟수":5,
+                    "미리로드":true,
+                    "광고코드":"Download_Interstitial"
+                },
+                "벨소리전면광고":{
+                    "사용여부":true,
+                    "미리로드":true,
+                    "광고코드":"Ringtone_Interstitial"
+                }
+            }
+        }
+    }
+}
