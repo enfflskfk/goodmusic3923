@@ -4,12 +4,12 @@
         "버전": {
             "코드": 5,
             "이름": "1.0.5",
-            "날짜": "2025년 3월 14일 오전 3시",
-            "패키지": "com.goodmusic.music",
-            "패키지주소": "com.goodmusic.music",
+            "날짜": "2025년 8월 4일 오전 3시",
+            "패키지": "com.yeongseok.feelmusic",
+            "패키지주소": "com.yeongseok.feelmusic",
             "버전메세지": {
-                "all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-                "ko": "다음 사항이 변경 되었습니다.\n\n1. 지구 재생 및 다운로드 오류 수정."
+                "all": "이 버전은 더 이상 사용할 수 없습니다.",
+                "ko": "이 버전은 더 이상 사용할 수 없습니다."
             }
         },
         "리뷰":{
