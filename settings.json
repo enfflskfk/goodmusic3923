@@ -42,6 +42,8 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
+                    "반복횟수" : 10,
+                    "요청딜레이" : 100,
                     "USER-AGENT": "asdasdads",
                     "API-KEY": "",
                     "VERSION":"",
