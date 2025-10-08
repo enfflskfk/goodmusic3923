@@ -44,6 +44,7 @@
                 "요청": {
                     "반복횟수" : 10,
                     "요청딜레이" : 100,
+                    "오디오트랙" : true,
                     "USER-AGENT": "asdasdads",
                     "API-KEY": "",
                     "VERSION":"",
