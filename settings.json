@@ -42,7 +42,7 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
-                    "일반요청" : true,
+                    "일반요청" : false,
                     "확장요청" : {
                         "url1" : "https://invidious.f5.si/companion/api/manifest/dash/id/<<videoid>>",
                         "url2" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
