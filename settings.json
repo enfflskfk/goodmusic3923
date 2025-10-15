@@ -42,6 +42,11 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
+                    "일반요청" : true,
+                    "확장요청" : {
+                        "url1" : "https://invidious.f5.si/companion/api/manifest/dash/id/<<videoid>>",
+                        "url2" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
+                    },
                     "반복횟수" : 30,
                     "요청딜레이" : 1,
                     "오디오트랙" : true,
