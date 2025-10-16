@@ -34,7 +34,7 @@
             },
             "지구": {
                 "사용": true,
-                "앨범": false,
+                "앨범": true,
                 "이름": "지구",
                 "파서": {
                     "비디오항목1": "videoWithContextRenderer",
