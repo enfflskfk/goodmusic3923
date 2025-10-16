@@ -2,8 +2,8 @@
     "언어": "모든언어",
     "앱설정": {
         "버전": {
-            "코드": 16,
-            "이름": "1.1.6",
+            "코드": 19,
+            "이름": "1.1.9",
             "날짜": "2025년 10월 7일 오전 12시",
             "패키지": "com.goodmusic.music",
             "패키지주소": "com.goodmusic.music",
@@ -42,7 +42,7 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
-                    "일반요청" : true,
+                    "일반요청" : false,
                     "확장요청" : {
                         "url1" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
                         "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
