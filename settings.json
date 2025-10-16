@@ -44,8 +44,8 @@
                 "요청": {
                     "일반요청" : false,
                     "확장요청" : {
-                        "url1" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
-                        "url2" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
+                        "url1" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
+                        "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
                     },
                     "반복횟수" : 30,
                     "요청딜레이" : 1,
