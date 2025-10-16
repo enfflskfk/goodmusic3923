@@ -33,7 +33,7 @@
                 "이름": "수성"
             },
             "지구": {
-                "사용": true,
+                "사용": false,
                 "앨범": false,
                 "이름": "지구",
                 "파서": {
@@ -42,7 +42,7 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
-                    "일반요청" : false,
+                    "일반요청" : true,
                     "확장요청" : {
                         "url1" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
                         "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
