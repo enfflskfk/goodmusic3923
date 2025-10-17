@@ -42,10 +42,11 @@
                     "영화구분3": "shortBylineText"
                 },
                 "요청": {
-                    "일반요청" : false,
+                    "일반요청" : false.
                     "확장요청" : {
                         "url1" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
                         "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
+                        "Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                     },
                     "반복횟수" : 30,
                     "요청딜레이" : 1,
@@ -53,9 +54,9 @@
                     "USER-AGENT": "asdasdads",
                     "API-KEY": "",
                     "VERSION":"",
-                    "Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-                    "주소":"https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
-                    "정보":"{'videoId': 'code', 'contentCheckOk': true, 'context': {'client': {'clientName': 'IOS', 'clientVersion': '19.45.4', 'deviceMake': 'Apple', 'deviceModel': 'iPhone16,2', 'platform': 'MOBILE', 'osName': 'IOS', 'osVersion': '18.1.0.22B83', 'visitorData': '수시변동', 'hl': 'en', 'gl': 'US', 'utcOffsetMinutes': 0}}}"
+                    "Agent":"com.google.android.youtube/19.28.35 (Linux; U; Android 15; GB) gzip",
+                    "주소":"https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=duJ4SQ13RZ0K&id=code&$fields=playerResponse",
+                    "정보":"{'context':{'client':{'clientName':'ANDROID','clientVersion':'19.28.35','clientScreen':'WATCH','platform':'MOBILE','visitorData':'수시변동','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'code','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
                 }
             }
         },
@@ -95,7 +96,7 @@
                     "미리로드":false,
                     "광고코드":"ca-app-pub-1902767889889637/2624558018"
                 },
-                "배너광고":{
+                "배너광고": {
                     "사용여부":false,
                     "광고코드":"ca-app-pub-1902767889889637/7580317907"
                 },
