@@ -48,8 +48,8 @@
                         "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
                         "Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                     },
-                    "반복횟수" : 30,
-                    "요청딜레이" : 1,
+                    "반복횟수" : 2,
+                    "요청딜레이" : 100,
                     "오디오트랙" : true,
                     "USER-AGENT": "asdasdads",
                     "API-KEY": "",
