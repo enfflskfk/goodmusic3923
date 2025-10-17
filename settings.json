@@ -45,7 +45,7 @@
                     "일반요청" : false,
                     "확장요청" : {
                         "url1" : "https://inv-cl2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
-                        "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>"
+                        "url2" : "https://inv-eu2.nadeko.net/companion/api/manifest/dash/id/<<videoid>>",
                         "Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
                     },
                     "반복횟수" : 30,
