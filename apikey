@@ -1,0 +1,3 @@
+                "Agent":"com.google.android.youtube/19.28.35 (Linux; U; Android 15; GB) gzip",
+                "주소":"https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=code&id=code&$fields=playerResponse",
+                "정보":"{'context':{'client':{'clientName':'ANDROID','clientVersion':'19.28.35','clientScreen':'WATCH','platform':'MOBILE','visitorData':'수시변동','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'code','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
