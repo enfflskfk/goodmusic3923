@@ -54,9 +54,9 @@
                     "USER-AGENT": "asdasdads",
                     "API-KEY": "",
                     "VERSION":"",
-                    "Agent":"com.google.android.youtube/19.28.35 (Linux; U; Android 15; GB) gzip",
-                    "주소":"https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=code&id=code&$fields=playerResponse",
-                    "정보":"{'context':{'client':{'clientName':'ANDROID','clientVersion':'19.28.35','clientScreen':'WATCH','platform':'MOBILE','visitorData':'수시변동','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'code','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
+                    "Agent":"com.google.android.youtube/20.10.38 (Linux; U; ANDROID 11) gzip",
+                    "주소":"https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w&hl=en",
+                    "정보":"{'videoId': 'code', 'contentCheckOk': true, 'context': {'client': {'clientName': 'ANDROID', 'clientVersion': '20.10.38', 'osName': 'Android', 'osVersion': '11', 'platform': 'MOBILE', 'visitorData': '수시변동', 'hl': 'en', 'gl': 'US', 'utcOffsetMinutes': 0}}}"
                 }
             }
         },
