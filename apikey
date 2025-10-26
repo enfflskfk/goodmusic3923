@@ -1,3 +1,742 @@
                 "Agent":"com.google.android.youtube/19.28.35 (Linux; U; Android 15; GB) gzip",
                 "주소":"https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=code&id=code&$fields=playerResponse",
                 "정보":"{'context':{'client':{'clientName':'ANDROID','clientVersion':'19.28.35','clientScreen':'WATCH','platform':'MOBILE','visitorData':'수시변동','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'code','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
+
+
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:27
+Client Version: 19.01.00
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458906&ei=emb9aJWFM-CW1d8P94ztyAc&ip=59.1.170.45&id=o-AA5KxyicxaCe_2VyGgGlQPGCdBOL247Q3_md2twFOoCU&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437306%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5R3VLwmEa3MgbGr-0SpOpT-MJYhWEu7CMgd7NukOlWfO9aULtmt6rgoa5gf6Le8fn4HCxbZqLa-&spc=6b0G_KzYpiOr&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgQpV0M_vrJI_rhFaW5Pz6tJ23xvxayH0PYdPVOchNouACIFxrkPex61Nml6eJ0ux38ahqnW4qgMLobrxj3ES4Mj4a&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFkZqnJMIjZ2tI3svAxWxGyFuT5TY_KWgd7zqUEgRT1QCIQDhVujQJyEBam6a6aZvuiiBKgjC5Z-u1U5sBfIvV4LmRg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:27
+Client Version: 19.01.01
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458907&ei=e2b9aN6kF7-V1d8PlKiz0AE&ip=59.1.170.45&id=o-ALP6rEH4hibc6MMA7-7WkuaDfkFOshMJg5MNTluh5b8x&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437307%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QTB1FMdEfTOp3yKNhltOS28eXVJhTbCrDj2B8GaeOuoYPQ34VqHUDzWm7yE6PkeB06uOwEsR2k&spc=6b0G_K3l-FSe&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgRV4NFNtJBkStsU4Mk5Qtt06ZpLRiieB5rlXpFvG0kt0CIQDvzlAbluBUofMA1Rns9td_RjTVqGLw5LFcYRKv3Mpvfw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgG1t6cde0_9DoIyiE_PNvKlckqmhcSOEsKmyPoq3LG9ACIQDSRGvTzR8kbQskqBzFiYG2lvdyGR9S-b4EEI1i4SV_9A%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:28
+Client Version: 19.01.02
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458907&ei=e2b9aPDRMJKNqL8Pj-27uQs&ip=59.1.170.45&id=o-AFNdiYODqMLXqtdt0OmJ7QavqOA7K3thg3qlKdGZAMfQ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437307%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Rgk66weieZXz708xCimRN7praXSxtR9ZTkc0di3mE_YNygwL1f4U4t9Dwwq4fdjavxlOP5_5yH&spc=6b0G_MHWggE_&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPfD4dFe7NP6jYkBY2ut5Mu1x8EyUn4D3501tkwFFuemAiBtcNmIsAByqUYMzyKynkNoDw5Fs8DeV_C6p5Lug8JZSg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMEf23LXWCGGxypVnWwPVSDEnJ1s2CLJE6J4jLM8fbFDAiEAnXEQ8IkFijKXSL4TVuljM41F0kvAemrWULfCkRPPRH8%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:28
+Client Version: 19.01.03
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458908&ei=fGb9aP-eDcKLqL8Pztnd4AU&ip=59.1.170.45&id=o-AASsbht-370zjkGRIRce2gt_jVTcaanIiehGsme8vteN&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437308%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Te_lZTG1Z3tgk40Z3Snymf1Qs-0BAqr3ggmMgLuMmlQm4DOwVrXlgz2rXMQXILLIcHy4dprcVC&spc=6b0G_NNKdmRt&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAII5vxbUoZvlsH7TLrnCx9FmR3T1B5RAvyDrZbOxWQeHAiBCf_ot7v8vItVmwZnHv02G3Mmy379Z7cItSVq7fLE5CA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgIpa6bux3UytXVjSk4l9rR1Z8Half7mD0MZrgWDfAb0ICIGdsgdUzjU4enyfRdsfT0xD-XsaC_CF2jJYG6XsdLVQf
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:29
+Client Version: 19.01.04
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458908&ei=fGb9aOz3JvaNqL8PlYz36Qs&ip=59.1.170.45&id=o-AG1FTAAJEHyfczSGR0VQ3npwxm9tTH8BlXOFfrh2M6D0&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437308%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q6-X63458uHNn9GgqPqJgVgIlv7xvaAKhTY78hVvnp-oqdi811kj5trABzpg42Wqz-BBx4-8rM&spc=6b0G_K3lae09&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbGvpQE3L97lLAqd9Ol6sZNOPSnNTQ8bu61tdob3c54oCIFNFGC-l_5nMOcWEWyCn8YWXbwbJpTimsUBOVtDHBFIb&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPlscqvvHAzQr0cmbwQEd1LA39qAEkIIrnGNrcn2r_P0AiEAl6gki5W4M2Cj1PfIPgMLoKf1TDkqSLH_AmFyDHXQgcs%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:29
+Client Version: 19.01.05
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458909&ei=fWb9aICgA8qX1d8P-aGT0QE&ip=59.1.170.45&id=o-AEjPe8aQD4va9iGKui-iw_Y0jwGC9_AM3n1Tngx1lUbz&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437309%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Qw-aAOdohnn56jlXf_4ylHSP655fMaq8JzehJpwdFnJZNrze6veCznTYN5ciukoFqtnFAF-sRI&spc=6b0G_IdQGN66&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAJB6KihmaO04uvOQtptdVQAJhq2dDPcLVj67GE9goGfBAiAvM69xp-a4nYKgR_CLnTCQA-9gNs7jdqi8-PqptojZKA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANEY9b3gkMDQlVunu2PCAU7rD4p_8Nc8HFaMX9bfBtqCAiEAg74VNFd6TJ8cFKzM4m44Jnezx_jSwbvIFXBs850F7SE%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:30
+Client Version: 19.01.06
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458909&ei=fWb9aLbtHKOJ1d8PoonE6QU&ip=59.1.170.45&id=o-AFcHQ9x1sEZXyRmXrOAEFa6ZRxqYwM7FUFyt2XF_PXDJ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437309%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RqppMoyd0FWY5j-lnxMnIA5nB5sUvKDMCxb0Ukhe5nzRs3olsE5svi-woaDSl2uQJGxT1fzd7i&spc=6b0G_BOJLG87&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgG1QWCTvvE42iTW6he_wg7EZAz2hj0eQ60UnYY2hAakQCIFmvx3Qxy9ytiXfEZyYkrpyWdrLk-mgfCuErfxesX6TC&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgEHo2_XNyBLhJU9f8ThQtGxQSD1g5yb2U6-c9zp6cuxECICoDpRvxacqj6yr6U7ED5fshK4lhI1D012JYC_dPkJn3
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:30
+Client Version: 19.01.07
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458909&ei=fWb9aPCvNt3K1d8P66CJmQw&ip=59.1.170.45&id=o-AC7ynFIFyJG5YP8I0zIXQctKbF2jm1uh7ngO27m2-HQw&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437309%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TLAqeHrL07K6jNswGzr1pCkqjUm3UtZEsRXY03oXkbkhbeCjCMfQ6xleBupqWyCcIXPoHmUpwI&spc=6b0G_JCQ01TR&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgZzP-99k5IfTB_FlTmhgdIuX1g2Qu-BS3M03roWhqlj0CIAH4Cqw0JhT0CDOR4jaqJfWQPEoVqtmvLeCkWgcxUV07&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgLFTB2R6YNoqm-cNFmNNb57nlC-lVNLYwocnzkxsbwU8CIQDGlv9O26DRivQMixTVNggcsflVem4gNA2mFtFcJfXmng%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:30
+Client Version: 19.01.08
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458910&ei=fmb9aPTYEtiJ1d8P4orN8AU&ip=59.1.170.45&id=o-AH-2MReKmuO57zjQ-6gCR3YiIUzAvHPTYg9NpZQDiGmR&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437310%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TE-ySt-NxByS2gda923yMVZKA3SOBrVVlgPg_OJgdDL13lkFUpLUdwLqAs2AwPFkonADEVqxMT&spc=6b0G_NrQSTEL&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAK1MJe3In67lUPVwKLrq6tQtPOugO6uGLiVn7VWQOu-qAiEA9hdae1D1AnmRGF5chDFBRWR2RIeWYR_ThXwIzqYdqPI%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgV2__Y16b7bpGMk0uRsYtzDmj47na7VlBfpHIKPml4EwCIFISAnzEFIJPq_KZtqT6asw8v5itB5QAPWim5wlUEPBP
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:31
+Client Version: 19.01.09
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458910&ei=fmb9aMakLJey1d8PotjJ8QU&ip=59.1.170.45&id=o-ALFGnbJSm0gdo3Y8wQlFl2UjgimYZa56v7_uPgeicgVT&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437310%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q7P_W3CfKIGmrVjIsed42mVICEZnYhjQ2iASdIP3pMAwy7UoQ9y6tr5LTH59b56I2I3lVaRDSu&spc=6b0G_G5O1U_G&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswQwIfStu1VSgmOj1VFTxOWwvyPgyg2Q1zioY8k2fVmeGVEAIgSizMuJZ48BPqqc8u9JSXigCfGEwfOxVoftL_arG8HNQ%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgNVZUmQlDty62vmFz47gA7uxudgJ5w-7mMYuKoaAsZYYCIA9jlXwQ3vdz9whogxxdG9WsD6rIYhzg4hS_9NS-RflX
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:31
+Client Version: 19.01.10
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458911&ei=f2b9aJuKCdGS1d8Pt8jR2AU&ip=59.1.170.45&id=o-AIMM9SiyH9l5ZYP2sBEnr1wvHOa4lXL6S6mNlf9QAlRa&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437311%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5RkTlxFQ-y2lAHvD76TV9SMFqYeMZFrG_JWG3mgTlOLQNKq8VZnBHd56oqNI7KkR5YGxdXwnZV6&spc=6b0G_PrAk843&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOiPTqEBh_TU1Acaq3Df19IGWxgI0Q8GHlJinocJCpUNAiEA1RnwOIhhOXOIhT7jMgcYC9mjtm7De7xG0arP7MSCPDc%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANYp3QQLyyXHXq1usDCtehzNT4LdG-vFWNj0-pNBO5fHAiBA61iWPs2fIep-g-zE1e6SsthWE1bcel0ItA_WLTFeyA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:32
+Client Version: 19.01.11
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458911&ei=f2b9aP2oIvaS1d8P-eCk8QQ&ip=59.1.170.45&id=o-ALJLWxCFUFFf5BmtYPfM6uqhI3U_2Hs3QHzRkHAnr10D&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437311%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RsTnWOdtefon9d0AXUSCvnMq4hTxcHxB53rO3lrELNOXTn4_VdQ0SqIzFwG3SlriLm44Jify4z&spc=6b0G_C8yVPiL&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJHfx2TFWL3HjLw9r4jBqWhVx5QciQkcIyql8Zj_QRhnAiEAv4ggfUAWrFZkz50l_WU9apzVPHKSi4ukG5UMu7-wuvs%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJzCnQ6hAxGRhslk1HkUGRf1a8sPXhzD4Lm9P_jCS3SFAiEA5vZDQ8lLvZoG42QX4pO8wRg0doxfIgA5uZduEveuwTw%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:32
+Client Version: 19.01.12
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458912&ei=f2b9aPryPICU1d8PlLDIgAI&ip=59.1.170.45&id=o-AN-CYA_I_z-6MI6sGNNQhAhQg9epd87hplFBRlq9K7gQ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437312%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sw29FP-w4-3d91-HqRtSVnoGmiZujUAvteVg1phENQCJxVBWZxwX1Ve4HG3bbkbW5tycs7BoI5&spc=6b0G_MRCBHix&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPKgEg3LCFI529xb8C1lTpGdpqOSvG_pBlqQF4QlnEwNAiAJrsWm0jAB5Zzkli_z_G5rWUn8M9i-m_EMrLrG89DQfA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgKz2KpaNe7LOOLJuMQtO20fc76DpjG2dLiVU96S2exqQCIHKk8xF910NNAEnD__JjqNLEty2gICQYxFpY0E0p6wHB
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:32
+Client Version: 19.01.13
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458912&ei=gGb9aL__Gr2KqL8Pis-02AU&ip=59.1.170.45&id=o-AB0rAGBg-6GETl4kS9vWy_nWl9RcyrDXWC1me_3LdhxT&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437312%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QFyWeTTkBirBuYGn0yK_UGxmEfFJ2qpysaEoQMq1Sovz8eCNVevJ-bVSiYB7rqDJROi1kpVNbE&spc=6b0G_MUXIUWD&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgPRzhcUqjMuwyXBqMHYO9UVC2euwcLyD-goQBP9dQL5ECIQDF_p5_c8vajMRPIdS6d_FaumHc9Hsr5xl9-gxfj7VLVw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRmhADdyDVCT7ErxpWpaPinNh1Vwjatd9Mxzc2nLMQRoCIEn26IluOxh4ZJ-a9ywO9b7fqO5t-9VVB46Lctdcqlue
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:33
+Client Version: 19.01.14
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458912&ei=gGb9aNzuNIuM1d8Po4TDyAc&ip=59.1.170.45&id=o-AKK6jY6TOtoXQpXJDSztL2P-tCMNDGJ2cjZhkvsN34cD&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437312%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5T3FnxbgQVrWMEeecrGT3I2hUrc6q6dHqw9N3B_0LM2Dbs-p3kfFsPGB9UZ7cyKXBIurMKbM6V6&spc=6b0G_LI_827u&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgRLZ-sXErOY9OPihgBLf6id6kBpWLnqgxGhbq8iuaFH0CIBoH-JeUycvrL0ZlTO7XDtNTfYgZ_R9lju9Hb2PCL8iU&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgGWEyU6VjyQejayDuWG-5OlmE0b6JUvjUE2HXjBZsJmECIQC5eMl0PUz0X6c-iyp9QekGffCZn9ij58DEAocJsO6gzQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:33
+Client Version: 19.01.15
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458913&ei=gWb9aNHwE4Cz1d8P94-sgQY&ip=59.1.170.45&id=o-AHS3kqSviU2fj3rnDHLRmaBRPpCH4dgqKjpf5YjMls-g&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437313%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Rcv_rj2Wio7ivELlkI2VMQz3at1KAFuPCU7_fq3-_-W22DrOI85N5uSyt2IMrSdg3iD75IMc_C&spc=6b0G_L_ZWVSg&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAI6zQzTUXQ073Ep6Sp78YmHp1zpKuLOxI-JhhXdOH2h6AiBO4Ur7zucN0-DkAOZpl6nvF0ml2ojcim1-KeyYfgcXyg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgSNtRUYF4KEIGE2SbEv-_RNFXCTegzxJGNFPa0KYXCMMCIAG6csCXfU-Fmx2rVSJHyY-7Zr341RS8AAg7ieedBxE9
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:34
+Client Version: 19.01.16
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458913&ei=gWb9aMrqLfOT1d8P9u6W6Qs&ip=59.1.170.45&id=o-AK9Bb_JXP-WJ7XKbNkWQYGAmwEXoHvdmPA2FQstt-Ktz&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437313%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5S4yjJoAlD029M8ooAq6JW1J0obDU6sauF_pF_Wapcmf1S0Z1R5tna27jCHrWkAtcPPUZbP2-NG&spc=6b0G_E53uWjn&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgR8mfbIjn9joSf90uI6DkBYqK-K5YAeyqOQdtG5fUmlwCIAY9jlTeL8EDdd_3kkK7vHnzXnC5SAB2A3gDLAK6VmUr&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgXIr1DfmSGaUcQ5jLZBLD7RdS2pcRqVb070l6BnfY89ECIBbYjb0w0eleCJM9Cby6hOSGYm4hogITQCdqmO27dcyB
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:34
+Client Version: 19.01.17
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458914&ei=gmb9aOuPCt2K1d8PmLj22Ac&ip=59.1.170.45&id=o-AHy7ia1_eL3xadfTHnrQdV_tLgyKyJu0_gnS3rc_f1rn&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437314%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RjaeVWkWXlL7ApNu7CXfFR0ohYbirFd2cagQWU4dkgTt2c00tOgd7_RAYsLVrq64lMKITF45YL&spc=6b0G_ENlL-eD&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOWJ3dUKO7SDJBmzmt1INx71nOFuIx3VMrGTzjap697JAiEA41Szpq4EzkssLf3Ya5lV2hIrdJlmp6qpHT2HxM89rkE%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgbKqCaEjX_rF5SnezNGYFIJms7ffa7vH8hsZgpcnB27ICIQCn3wKvoE5QCFFZDEn-bgGoyBSn5mQBDyBf9AkWvf2wZw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:35
+Client Version: 19.01.18
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458914&ei=gmb9aIPIJPiW1d8Pj8WvoQw&ip=59.1.170.45&id=o-AMCBkAAkuIlkJuQQnAvQq0IMP2fv4TQowKdEhC_B5Gn-&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437314%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SRcwjUboz6Rr_wbmtTlVokNnwDmPSUqPhlKao3vr-rg_OXIPg5TFmMpC5VTVv522QLT86gFq7V&spc=6b0G_MLST-rq&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhANYeFFDU9L6588NI3yMlfDki_q9IEfMsXxy3tkAQRQfcAiAseG1Z8UxrfoMPdHB5KDmG0r8kxzXM_9g_yQr0kRNKyw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALIEwZEeoqHz0iLIzLR_QQuKyLnAhuE-Ov5abZp4UPq_AiBgW5Ic3BWsHe03laxv7ptBEupc73h6OWU5FwBcDFr42Q%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:35
+Client Version: 19.01.19
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458915&ei=g2b9aIqkAdLL1d8PspDKgAI&ip=59.1.170.45&id=o-AAaH_pplk2tCVBC-InW7MN6mu7PhDmE-TR7NTBq8EYFH&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437315%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RHStKYLscyuRu1bilrWVsbNwUpjTsKCrI6y0nWr1AFZHXpppk31WV2piQL_UFV90IticMnOtpF&spc=6b0G_NlUukox&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgXB9MRc1KAeslM_IFn-KK0t6EYG_0SCiYxYwWbIZTm4UCIA6dFcR1PDt_C6jYYzY25nqUv_f7T_MzRTbD5nbRveXI&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgGZqrA8DGXqOmqPoOyOzJ--Qxw0s8_4JYHUoAKpCkq28CIFeJwoUzV1eb7fPxEtXvL5lDfBRPj--rNbYz3POxa5AQ
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:35
+Client Version: 19.01.20
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458915&ei=g2b9aJiTG5aMqL8P8LjP6As&ip=59.1.170.45&id=o-AHVVt5xVIPqvaxOLN_L76UOTFbtbUeWvp8Z4xNE0RE8h&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437315%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sni4nvblWT5clYA9w-EToeKhxA1VY6jYs4Kf2AuYbM5JIayUkVipZp6yogrmCDFWlChrs23ZWg&spc=6b0G_DSu6ade&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOlROGfbMRExwvAmksa7X7sO2ZmDTVS2crVxxEbLT715AiEAiPZ3YEaU3hv06ZL7F_JET_VNwqwa70VOQNmLe4lyorc%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVUbvAwMMoVLpyXCIobIXkPNBESRJqlaOeCRVnVMyuhMCIGKlqz9DFkrlhlyOpRh92L26RvjM9IxNGBJNCwisf9tf
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:36
+Client Version: 19.01.21
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458915&ei=g2b9aM69Neic1d8PiL6b4Qc&ip=59.1.170.45&id=o-AKYDWl4yQkw-bzW6yXiMAGuSPG6o-ZRBQ3N5l1AEQStj&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437315%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SovOxUSXWFPrel8UBpn0lumPbqPVqlVkZqNjydPtDMsIsMn0pHjl99ts8vsEauZNClq7eVnWVY&spc=6b0G_BIiZGhM&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAL1aYs-GR09_O4wG3N6kSHJkyLItk8VsKlAAi5HfVB2jAiBghWfZAiV0zM4U0eV_JEEWLmn38yWyBulv-iH3reZC1w%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALhN9ks6E8_TBI8T45_OU4fi8Xg42egreCI8X5QWvhznAiEApiw-lTFMB139_cwtghB4noL-t4gP83yqMsmwzs8ByCA%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:36
+Client Version: 19.01.22
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458916&ei=hGb9aLqLErOKqL8PtY2F4As&ip=59.1.170.45&id=o-AAzqFJiJw2aQEJnOAoU7Cbddvvx4N5u5elWp3raQhqoI&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437316%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sb0FofOP-hAJf_TijLLYlCDJJR-rcqcXuuxAlpJkxrczqvNPTNjYGOQQPOg-yjap8w_NrqQqTQ&spc=6b0G_GyTcq_N&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAN7BsK2aCh1M1s5FjDnL4mqPnZETJbOd3n_5s0Srwwf2AiEA7fPbqTuRZaGpk3e6-Ksvlb2-u9ra7-5jI6utqROilbQ%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgM3LyRLJ1vamNl9mPVCXNUrRXY_vdmpZ1IfHltPQPkbwCIQDouEC524Gb12fKzXGvQ2YAYi-eDJC1a7jcr_hQo1xLkQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:37
+Client Version: 19.01.23
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458916&ei=hGb9aKfXK5KX1d8PuL380AQ&ip=59.1.170.45&id=o-ANdpfd2vpv-cONmd_TBOGL82glnppMHilL95ZU_6XWKJ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437316%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RN-j0_5Ssk-DYln6kWS2VcDu_JZO0dZQ5r5J5xoS40xFeL4wBitBFXwLY_cseYyxVgc6GnUjaj&spc=6b0G_F9bGV72&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIYbbSNBzWqi_mb4r6qr0hJxZtuLzBkRp8gP-ftkhNgTAiBn-FUI8b9zH1RQIxqkNfFBk_9HdrKH2w2t8KxM-DANPQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOPXS2VVi_qNgYFLUkpiD1i-CMPkpqRmVqQkY9BsJ8a-AiEAvVbaJh4neGYKhaI8AUZ-nZRWlJ2Y3TbTYodGolBDMWs%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:37
+Client Version: 19.01.24
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458917&ei=hWb9aJ_mCOSK1d8P-NinwQc&ip=59.1.170.45&id=o-ABN40FMLwQ5sy-1srC4pk_ombjDMNVIYWIUdkMRkM3TZ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437317%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TdjVufZlYwW_8lHF-wUiYURnfo79gqVtwIL_8KkvAc5RyvKXeQOKRVUGtCkwlVNnet_sJrSgpv&spc=6b0G_P0usB6G&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgVjx_MhNLiStP6vvBgiCq5kw-rZlH-32YUyp3eFF6JnMCIQCnGEgApv9IW-lY7_g7xvgNuAgxOfMXcRFru5xKbALUOA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALsrcZ-wIPNrqn65QvMVvVVh_TEHBKYrRemt4J3Fh8GbAiEA7P1z91GOENjdbmTlHSC4tCOyusEywYtubdXp3rTfLR4%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:38
+Client Version: 19.01.25
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458917&ei=hWb9aMmcI-zD1d8PsPK34AE&ip=59.1.170.45&id=o-ALfXAwr_Og5ZHVMoZhinDXYbTQD_O_j0LM1ADfjMXrtn&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437317%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q7ZaJpKtKMpNJ2uNrKa-BdLXG2DM_Y7WA8yc8TY_tw2rjTpNtWoOgvV9jTquKphqmrZ1dBgRpq&spc=6b0G_IHzv-Ge&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYyl8gwyEA91lYiCF9Ji09FtS35EwStN2on3HzgJhQRYCIASwqH5fix00G-rSN8_rzXnBG19arhGzE-3znO0XuN8-&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgTohsHX-d8Tfb0L0UV5677NgEqho1_cdjWddbJNEdu7ICIQCFukTXv2vbFqUkMzpZvEWrPMHV_eA_qZXOeJcdN9LXEQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:38
+Client Version: 19.01.26
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458918&ei=hWb9aKrvPNiX1d8P4vivqAI&ip=59.1.170.45&id=o-AGsB6aEtDRzthpaWLry6KFFRmDq8UEuGqaK8H3ipqwWX&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437318%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5Qbg1djAO0pVrM97zNk4uk6gpCCuFuBvvwwuo1lVYiJMRQJmWZLNRAZ7IYMKMFAkE2gj-YPhgqB&spc=6b0G_LnB7npQ&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAMTWUU3wYCNv3OnkbLgGvg9K1U82bnasEn_ORTyVxw2AAiEA1KzuTSdyG-uxns64u7ii1PHhrTSBoFS_IK9NsqF1Xvg%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPCFgbK7r6mooPAlT0DiqEezWl4-lEe0q_kFRqzvhmSJAiBjnmx0J8Zq8IGpEgbtftJ94NwvpvuyH979lAHiE1yWvw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:38
+Client Version: 19.01.27
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458918&ei=hmb9aM3EGY6I1d8PguaC2As&ip=59.1.170.45&id=o-ACD2h4PfeidGgmsYBqGpEw-NPtN99SVwoR2SpLdrFgp5&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437318%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RMo8hf6rx0TVPFUPWSF6PhkZK4R6fWOTLFd0B2BhI-ChoJWFFlzUI0uxxDJ1hxbYHMsoYnDTSR&spc=6b0G_CABcSLS&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAMYMmUPC4aatmP_Ge5-n6Lxx8fnZgxYau2srqPs52PDwAiAu-CTu9rfrDt8ZajM7wcZGU2uG8bfUsdX-je93R3hyyA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAK-9xbRM_Bj6K2EB2AvC6Xf2v8AcyRTigIxHMQ6eMUWYAiEAoX-T8_JPpiGhvWLo2e2bWlkph_Lllzrb-_prcAfO1rE%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:39
+Client Version: 19.01.28
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458918&ei=hmb9aKHyM_eNqL8Pmf_k0QE&ip=59.1.170.45&id=o-APd1imCTmKXPf_EvF-_1GSB0BwTtQpHzyaQgiNnfr378&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437318%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TzTTaC-9isNPCJS8knklB-lGMXFWX13b7baj0Q_6D-WxkxtQeo1O1aMouKxe_r2yUXsIG3xGXq&spc=6b0G_D2StRz2&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAND1N5CQidDBv83QxERYVhUJAv6LVQv8qJoX5LaWh7zRAiEAhDnL495V_NKriF1KSfbW8Po844hzY78ZInRu-hKlLd4%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOvssKxYSv2AZtes_AonW4FpYrbedrrpExCoUkCKuIQAAiEAixnq1j8WgmZQtIS8P6hY4XKLdpahwTbtJhMRu1jpx_Q%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:39
+Client Version: 19.01.29
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458919&ei=h2b9aPitEJ7K1d8P5MPN6QU&ip=59.1.170.45&id=o-ANcdIloXnz4ijfP_dEnyD_FzzJg5EdNjyfviBBm7QN2b&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437319%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SXzsHYdNmEV_78t1zxY_L0A7MS1ddwnXW5PG-1Kg4zmzRhvLeHe-NbT41Sk7AYpyXlTP0t5wp6&spc=6b0G_PB0L6vf&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAIWAs5yVjhx1bsxPrlnjtEyzqICp9Wesnlu5VDO-6Le3AiEA_aNR3K_8m2TarDHFKpRynuEZQdVSIE-fxpz0YtW37QM%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMS0lFyvguO2Liy6i-AyMT1ysqqp4sOC3hoSLDs4RUYjAiEA-baWbz7O0WCffAe5PsBwfd-NcfYnMMC5GrfEWt588u8%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:40
+Client Version: 19.01.30
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458919&ei=h2b9aPqMKvzX1d8PoIqf8AE&ip=59.1.170.45&id=o-ACpeMXWtUQPVuehCxzqRV_9NIf0QAZ43nijETYsFBhG_&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437319%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sfua4FnGqj0TSVU3Vt5wWMJfmcqsIWUD0NYGLdDJLMGpaHht9QMW6WMJdf1j7znXN40yo9f5MQ&spc=6b0G_BulalnN&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgICsuJpilDVTytXP-yXIbhuUQXUWHAcympo6GtFXHZYoCICtZo2df3f9trkokaokfzORGBYVfPBSheIXt6owDcL9B&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPcHR-46-6IqAlOytdaeekfYrwkIi5j4UXoUDmPV9FQzAiBoYDz19iTQ4XYVQZ8M_i9qwhRi8a6hSd8evTGW3Bj3Hw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:40
+Client Version: 19.01.31
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458920&ei=iGb9aP3jB7-Lpt8P4PD0wAg&ip=59.1.170.45&id=o-AN1vsRKLI1tIYyZDe9NjtCz0JN_UqWjGSpfqjLxVVIlb&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437320%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RPiCuA1UevfZeUWWy68yin3HnNuYoKfS5LxmCD-p5HWdvmnYsToDiW9PYQQP39Za5cTqMc3stO&spc=6b0G_AniZ4Tf&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhALdbbPRGtxJ_OAATMYFyByVZFn1Zsxkve4hw8YyQVFrzAiBExW2Ya4RZz0qpvLGVJkFF45K-TxlxA5fwEvy4VgikcQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIDz9CRhpPPEjqXiBwuOqLim6GKjmmx1CQsR5Zhrp5YnAiEAx077I___mYuwhEgJeosZ4SYWSQzjHTAVcu47LKKPUPY%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:41
+Client Version: 19.01.32
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458920&ei=iGb9aJaOIrWKqL8PoOvuyQQ&ip=59.1.170.45&id=o-AAaGr0Etfx6ADoWRBTlMuyJ-pIc7dmeod18prLaW3s8Q&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437320%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SGcMJGyEUvh8z_q3SbkzyA4p_U9S5L2HZ--TG__BS3HxzVPcOFl25h4PSRBw_gOaeKnfghkR81&spc=6b0G_ACIjrD5&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOKb4EjswzMAkmyAGoXQirYZ8e-ahLiDjUyjCRp-wfTVAiEAszTSTxhbDmQc_tBoZXvHpGsmzmnysrtRnVou87DZ4_8%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRPIcXis4GtZWvyBlh8AxwbjzHyIJDazpJ6EbMTe6eKECIE3j57bYf-CuToyGd_68kgjVR9qKLFXl2fN0r8zVWhaa
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:41
+Client Version: 19.01.33
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458921&ei=iGb9aMKxPOGW1d8P39fPsAY&ip=59.1.170.45&id=o-AEeXmNA_6sSVKrnJY5pzrJLFsEKeXMHVnZGJEMVDI0kB&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437320%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Ttd3tEdxFFuI_8oe1PMI8nD1NRPr-Y4Yb6x95JXO-JCFtrk9UJTKX2-DM8thQEqnhg9N6SnVkf&spc=6b0G_PBCHFjL&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgPZ8OZ5Kf9vwT49MjKZjE6Bq5X-yJqyveVw9xlMqItwQCIEXKAetGcgO-zBitxd5k0zGmZzhTZiY9_zuQYYjQDUAC&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPC4lFH-htmhpQggQFxtGnk3h_4y-dUayHCp3tK2t3sFAiEA88pcTXcsws0W9JZeQdJ8UEex0-zXzEssSuSH1H9ZcFk%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:41
+Client Version: 19.01.34
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458921&ei=iWb9aO7wGOWLqL8P7ZX24QQ&ip=59.1.170.45&id=o-AHOIg4xkizlmthVKzo4ZBRs30hmpcJF8XA8IqUzV_7KK&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437321%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SG0Yk5qv6eQQ6IAzic7cozgb11j1uXqFLPpYL_ZdRsOC9gv6CT1Siuy8iqTBfmLgtzGR_n0G3q&spc=6b0G_BLe8mC0&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKcEChPW9Ao_d_dTySaTTqNhfDGh9NmVn-5jSB7gzfliAiEArJkea1igtARjeEB-EyFW-tZzp3A9gH7pkjt-rKbHoRA%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALYpeFYeFAm26TlLJSM3OyAtStHrMw8SMnYl2EiXjhM6AiEA6SUNLSv15-W9HSIXJFu5P_soV-_YlWO6yYRJQcnVs7I%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:42
+Client Version: 19.01.35
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458921&ei=iWb9aKrIMonA1d8Ptf-a8Qs&ip=59.1.170.45&id=o-AM3afxBPbuBBeNHaJtE53pv6ahl58eSjCps89vq6fM4j&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437321%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QBm13mrtG70zQbmDXBGomhZmCJC7u__QVTV3G4IF20ytzGB_XmWMRCTzUeDtFvi1S4g16S9DLp&spc=6b0G_FQOloM_&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgLcLMp3a4NmxMyL8W3we324tL7d_13ZR7MkpdgU_Eve8CIBKRsj5LtveaQsvbIcyPprtp6jIK8TDtXDr0ByM0SR2n&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANLdrsUbVGs1ybGvWzuTUb60F0MxsB6j_JC2BAMPlsA4AiEA2A7Avb3fnA1-NFiVL9nsbxQOYQivD33jTeu7bpryBxw%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:42
+Client Version: 19.01.36
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458922&ei=imb9aIj7DoW61d8PiLK78QU&ip=59.1.170.45&id=o-AMk6yDkyR-idIWzrPwfp1K9heEz2oi9c4P2NzBk2T_tH&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437322%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TL-Rj643uerwdW9snXFQzAhkBFbnpcN1pa5HCc7f_BC-qymiC8IJN97bAxFvDfYKPXIyUGuAoN&spc=6b0G_Jgow3_l&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgAjm6VxpopAtp1HkuUKOfwoh3FEJir2IvV02ki0W3HTYCIDOgzpxtzOBMuTP6E-3A7lCGQ_6r1J81LxQ_CckejEl7&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgKe0Q68HUau-5i91vtp9OJ6FyQnZ5PbUn_f0TQwVr_uMCIQDINwyadB2ZxQNNOPOmsJ9EKjQevj_SEeSMMisdjALbUw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:43
+Client Version: 19.01.37
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458922&ei=imb9aNTAKcK31d8PlZn52AU&ip=59.1.170.45&id=o-AArjcXtLV-svVu7ZSvRP7guaKbqv8LJgf-QtAPCF-uT9&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437322%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QrNUFfghGRrzRrPMAeVcZDynvfbmP5APk8KmV3m-zdB8uChfJJ5lByt96vjGMzYWnVG9YDZHvV&spc=6b0G_D-NRdRM&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhALY34BjHHqAjLQD-t7yvfllOtZ--lruoPiou9k7mf0S4AiBgRQiqfC9FRK2n1DOf34Hh5WjtI7c7bT-CD-7r5GMLiw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAOqE8OzNUsBYUmcdQFm2S9c0v1ZgRphIjVR68ULVM6McAiAH9DW7ghY-JC_rlQrr2CA4-N6iv6Nt5q8Ab4xfUZNGKw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:43
+Client Version: 19.01.38
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458923&ei=i2b9aO3xBeqZ1d8P3If26QU&ip=59.1.170.45&id=o-AJPsGDhbITTt8wpD4TbanG08_FgKj0tFXX7S-2-3nleL&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437323%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QvER83gccnO6emSzR4JSQtTtr0hvoZ88E7n8StRFwPf4qNfnfKMKNLBtwGjwHfFixo90Y74j8K&spc=6b0G_MuawITJ&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOqsavIKPMk4mLt-IqG7Jz0dJ3Z58o3fvqmLvSNpHzA8AiAwZoFXtRLiXXX14Z4P3DHbNDwnGqYCLzolEgLtuShkJQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOfzFME-aA13lUBUO-bin3bdD4kCot0abepI6CZsQyaAAiEAquLxNlp3meMIyYgcdJDvvUPfls8brZxKif9xcFfSqP4%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:44
+Client Version: 19.01.39
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458923&ei=i2b9aKyoINyM1d8PwYzW2QQ&ip=59.1.170.45&id=o-AANEFVOqumkNVocAE1nsoHIlq9VIby54zhjj39heYXSD&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437323%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q3b9Pspc9pX1qbaOUQpfRq9H2voFwXrqFy3h95y9M8ao600xWTyO1TC_8FftqHFaCMh6S9mz1K&spc=6b0G_LlEhwg6&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhALWkPSxY0tac6bpTVPRMJAxmfoUxnStKOm7Dyn4V82T1AiBheO_CE7P-9H5LiaVRytK3av_zoHK0NNREZr2ZlcMLXg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgaTgcdina7j0icWZXRwKCyEpNH82EoTGmLERJ_e7fRR0CIQCLBxd5qdEjukXHGRQNgMYWcvTMr9KiRxdjM5pAw4RoCQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:44
+Client Version: 19.01.40
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458923&ei=i2b9aLzTOaPK1d8Pw4mVsQc&ip=59.1.170.45&id=o-AJ4lm1vBeZl2cSJkEnBauO20wGXIFtQYAEZ_3SfOFQG6&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437323%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QKjIp-HxImMK1KxM2OFozK5s7P9FM-Dxp8vKTtnqINsfuP2sQOwh6cEI4J5NeC7-zWmUAj1cGS&spc=6b0G_ArwiEP2&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJajKiaolIl3JhVBhsyVKSj1_dtGpQrwzyYy3mdRrHbzAiEAphUNepWPasZUWxqfKYl-NBvc2Tk6y7jWJ_XsXAsXL5k%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgcO5DDyMJqA_1S7s2yozknRtMQKqsAo8K4CNdcJwGvegCIQDyKIo8fOPbnS76q1OV09KM-Q5ggi4cBYJ4E1ETzuYUkg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:44
+Client Version: 19.01.41
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458924&ei=jGb9aJGUFr-LqL8P6MCwkQo&ip=59.1.170.45&id=o-AMgrlsfWEgF6OW1CdCHWzIgXMbTrMD7jsNULs3lLioN2&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437324%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Ts_z9_JENzRCxx1n_bd-6LA3V68P27K5uiPcjtU-GXgNxwGYdPT1eN9Zr9OQ8ROwSpgQ_GM3g1&spc=6b0G_MBWaLyb&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgMKKjCSDrMtDMjwOcZjDI5NxnBEwr-waKp8Dzcmqk4FYCIC9Fd86rWfPfyQd8Pxqa8P27JdiE900P4RtmrV3Ga9mE&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPlD1OzYy_nvOnh0_3kEK3tn7j2WvrKAhjEitFbhWZX5AiEAt-LLc9cC0iSrSqGlEpXDka_OLE0VUURfWY2WI4dHL8Y%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:45
+Client Version: 19.01.42
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458924&ei=jGb9aMPcL_aNqL8P45Px0QQ&ip=59.1.170.45&id=o-AHO0WI-wmIVrBZzXPTds3glxsue5rvFK0oPgJ36S1MYo&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437324%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RXhKEMF1_4dWAQ0QzqzNIH7cTirSoIC58iuvO4MsC_wu5nTmnAGGXu3Sedkx_DHdxpvbjlgsck&spc=6b0G_OExCfJ7&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAK160YFP9XH-GEzqZsTZ6naj0LwyEtgyDjm9yZNzOw8zAiAcjSo1zOX6RyzdmS_CVA12b0JSHo-FXTxh-1s78x1tLA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgU9RjoU-lvKFhmS-nBbz28SW_V2B7WKZRpKmnE6GttBECIBYlJVLuEFUy8Oma7NWJzitzb8WYT_Zl7zWg-92fe-nJ
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:45
+Client Version: 19.01.43
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458925&ei=jWb9aNnnDPeR1d8PgprW6AE&ip=59.1.170.45&id=o-AAmXs-2380V8jDqwDvU4IMYKv3wZj1g0LoYSUmBU92kk&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437325%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TI6OEk06g6srDwRUQoonfQcSUs1V_CmwnQgOCmDM956hCJwCdNJAx5_bXeHMCoVGqutDXvZvpC&spc=6b0G_IeBvkW8&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPF5MDGRXvgxVzsHAkn8ARspnQpBx0YNuy8kyo_XkSd_AiBVBYGC_eIh7Vjb_mk-bfGjYE4ObCIwNSD9T7lz5uWr3Q%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwQwIgAmUe2byJvtD0B-CdWN_QGBjaapFjgnENGyQvqGbQdJkCH3qAlz1xd4sIKctHebpC19WAtfID8VzAGKFJP1L81N4%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:46
+Client Version: 19.01.44
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458925&ei=jWb9aPenJ5WU1d8P6tPq6QU&ip=59.1.170.45&id=o-ADHUibt4Lv5-vKsERfQITsDfi-ui-mFp1e14DFkJDOJZ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437325%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SBTSSwyolSqcYOU34Oqeep1PDOP7IsUxXoOLltUJuwJ6jwDFbfiIu1oayQ7T62_loUWmrG2Ugx&spc=6b0G_Fu2OLMO&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgTS8Al9GHARncmWT92LX-plo5DajDvceCdJQkUXMUAJoCIQCHe2uD0Se4-srrVfc-_pROFGApazB8NReQN6vhSLDWwg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALYK3Dmx3w9uGPmVSwOxZqKGxjEByETKwJx010v7ICO3AiBYGCK9vC8G98kWUDq5C4ohQuZd_4TftgpzXs7xIiC_bA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:46
+Client Version: 19.01.45
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458926&ei=jmb9aKHIA8-Z1d8PgIiEiAw&ip=59.1.170.45&id=o-ABkMGGEbQfIJaiH76Dfo0dQ6L4-osu-_63A8Op8NcEBI&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437326%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q3bYGeOqwpJuiGnwVA9nscAOW5akQItC6gFh2QqxR18fpx-u-QMaAF8_PkwFPhmilsESni7eWp&spc=6b0G_L_Nz4hA&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAMOnxsyTfgNEDjZ2jFVitVrvwvoXA7l71PD4kCfiYeq5AiADY0CNRWYwC6vHtCG_dPgDj3spWI47lXgD78hTVaJOKA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgKZpXP0eioMhMw2bacz58eBQaR2Jc42LekHzEIbmmoLECIQCHx6MbbNXIPq-HDNnRwrrYDWskZAi-gW7MrSgtPIKA1Q%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:47
+Client Version: 19.01.46
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458926&ei=jmb9aLGoHYCJ1d8Pq_b0uAc&ip=59.1.170.45&id=o-AEihb3bV6l_alJIF2W7mMuQ9mpgqLA53p9RkGzKWHkaj&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437326%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Qd0B_pdgwwOlSJhnred9ABB9Urqo_mfQOSPJBFZqJg4VlUfmt6uCde_HjxGpLjzf1AcVmef9y-&spc=6b0G_HUMTRa6&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbgsLG4Lf2NIADSRjljL_VW7CJfOzBR1JOu6nt_6m04oCIG81OOGr-M3lCMj6vEMttmsxH4dPDd_bwnXtqxRplMDn&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALxLojzCOBXjgKjBOzNMSqrrfpd40Wa1aCwJe3vwFMijAiEA-Dx-Ur3KKnjVeFSAjIz5j_EQOoJgRnhxbSguMTn8bOg%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:47
+Client Version: 19.01.47
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458926&ei=jmb9aN_FN--X1d8P9JS-2Qc&ip=59.1.170.45&id=o-AItddHcT4vfVUN0nZw_A6zbBr38948urfk0R4e8vkUuO&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437326%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TGKJbnDKGd150HK9R6JeNZl3ocff4H0XI60JaPoAWikkFg9OuUjSYPWrsxfyTI8AOsoO-FIKij&spc=6b0G_E3eECAv&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgVXvJsvXTVKHbGOpYgqCIJbzl1nT687QZXSSYWybuR-sCIE0YO1CdZQ8dmuX7FuVVv-QfBJ-UJODFeKIXuHGkclCk&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIF2vUCiPGRfKYQikBPCVviefvrKwMPOft2Y46TP3G-OAiEAxa-iM4kvjDDigzRDTfGRRKxU1Q_Bx79Yl_-7p51J2Cg%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:47
+Client Version: 19.01.48
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458927&ei=j2b9aI2cFO-I1d8P36aF4AE&ip=59.1.170.45&id=o-AGUwCnyYBaOvMeaS15y0KsSJ58435s7N3jvQCvOKJokC&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437327%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SSl8DCv6RWcRwBfvKDDEvSddcaMtyFBHceZHMoROXQLh0GriTPXjlgq1cpRsZJ1GubU49HYI5P&spc=6b0G_N-9HlTg&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgJ9JMwOcYS1CW7IgGu1kkF0lFhImqBWyYuNxLCee6lmUCIQD7gAptJ-UPqmykWBy-5BpCmTPDP5ij9r5ZQlyYxqI1SQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgQUQxXbbfK_AzSGU5IobXALh30cQyfXHQqVmoxL3TcbECIQCZ0iC6P0yVvCj640M07UGfpjudp9uOJaUzH5AwrZBsxw%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:48
+Client Version: 19.01.49
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458927&ei=j2b9aPrILuGZ1d8Ps9vSuQ8&ip=59.1.170.45&id=o-ANnJWJWgaVH6WH_o5Ho1p5SY33kq0ajakO8aLLXvg5Y2&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437327%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SKr-0MtqDE36QkjNeMEZZAVAXyyfx7Y0ZlY7dqgqDMi28c34spo7yDrCsXcM-caVwbgHPPLWwu&spc=6b0G_FzgA30K&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIcmSKLpuTMIwCRJht_bLo9ocmBVbGQpdSmnwWBIeZGoAiB8GikFW5iuylz0tsvc-Gya5AwcEVcNeCc8lpyVt9cUbQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgX9b3ePO-RxgoOmHeksY8sGzUz2OITouqNJzy9gk-TjMCIQDQXW-OA6_Kn6ZrRodztRbb1QRS9F02ogiEmaoYkpREoA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:48
+Client Version: 19.01.50
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458928&ei=kGb9aNOBDLnF1d8PzKqI0Qs&ip=59.1.170.45&id=o-AJOeDouiKsVdhyljb-2HArvOg8u8v0brHY7gMVW1z-pK&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437328%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5R_84uCPYsXbcuwnxA18uND_TedelXq971XGHeWmLHG5U6dwaPO9IYKjOGDoQ3N6geBZuHZjGBs&spc=6b0G_FHfPn3r&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgfUW7XWFEfH-fEcQxIRO-dZjqqnZY7WQneWutD0TKD7UCIFAd24O8RDx7Ug4HfYPrtqUgbOT1gvmq4u21EfEqurz3&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAKuXByVQ_UYpdNsH9TlJE5rN-EruWK7qTQgQe24x0PX1AiBTvykJ9vtdd8mZBxl63WTQlh35oGHiKi7THO3IgvDqsA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:49
+Client Version: 19.01.51
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458928&ei=kGb9aNjDJeiI1d8PufaQuQs&ip=59.1.170.45&id=o-AGJvoS99ANJgzONGVqLQiHPHdiJMAuAIpkMsqp2du1YE&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437328%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TYJlSwXLPLsi63EteVkJGmItbsTnujUgSluEFIDByLl4rS1dS7ZoXSaIL6NGtuO-p5WFyYRHU2&spc=6b0G_DsauPwk&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgQbdEo0RCkWHLLcNKP2fBapA8KaWCrD7qYxN8vJSLpmsCIQDDzzJl2OWTL_NsOPgDQf37gUbeWg7RoSZP4lpqmLz7TQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgJcCys1G26XWN_5JlHj0Ksu4ITnF22Ub0iUTKI4UR9dQCIQDby2ZKzMz_UwEaC0OMwisYinnE1Hktbrm6YOXNctD7ew%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:49
+Client Version: 19.01.52
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458929&ei=kWb9aOy8Auyqpt8Pr8yboQg&ip=59.1.170.45&id=o-AFa0OjIVzEnnWnxwa3rwgoan7OlADLCQALxcVU6FyGj_&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437329%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SwzvjJI7BavYSr2jqdjjkHALzkQxhEfho4vxQzqD9aCUR2KQ1YGixhfFwJM6P8JEh_pM_njn6u&spc=6b0G_PgAIzEK&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgflDL6xz5LsWXzM6iaIwKHfYOHMeydnYnrFaQEUzq_XICIQDZ5NX4o3sF7EBffUE_u1p1azbKxtsrlhbCBK6yaLyIKg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKHxQijTIMUB-NVsIr2aI5wH191g1FIA2bbCCUnShBwlAiEAmK49drfaQU4x-hVgtZyVeGugj_Vg6HvW9wY2_tjLb84%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:49
+Client Version: 19.01.53
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458929&ei=kWb9aLaXG8WU1d8PjarR2QQ&ip=59.1.170.45&id=o-AO4fuZR2iX509aBZWiXYmeKOxM_uLjvOy7fIg2BLQr-B&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437329%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TBiFjJRpGZst6_1HU6kJOW8vhtLZ8ZrFZjVgLB00lBy8lcCbVbP8zgjky8nQTC54fD2aOUojfO&spc=6b0G_EYEqRve&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgC3xf268JpfxABXIIZc5LyeQc8xBkrEpNqmKIvxF_u0YCIQDPt2zKCXE3JLN0tcFjW2Y0XhjxAQDgluuGR-tcmxF9HQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAK9bBDnpCJU5R4VlJpYXWjKOsEVufaqKnVGBPr30R1mJAiAoJQNVeKdCuQQCD0kYIwU9Hdk60pik564s2aI_s2YZ8Q%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:50
+Client Version: 19.01.54
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458929&ei=kWb9aNjQNOWv1d8PgNPsyAQ&ip=59.1.170.45&id=o-ACrj_oTY6wOuabR5TXw3Gb2eYHXLDGgIfL7mP7PnyhDa&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437329%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Qb_NLIgU_bcz6U6K6nnXbs6CsVr7iNBaqczRp1EFGd4XXupQMpy-fd65TkNIaAkzTFy631axGH&spc=6b0G_IyBkYgg&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhANb4Y1JM6y1V-xTDXWjD2zOEOzEty7_zqocQkbGhpRA7AiEAzjFj-TtneRCCJ0Ukzt21aVDuDCFd-dFysp9vrb2fGyQ%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAPQtW8vex1l3xaAVd-oo92MLsuSVzbPyutj5DmFl_t8AAiBHnCfMRPOfcRTXoTcSRAuDoGYSooBr4IUsFjiS_sqO3w%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:50
+Client Version: 19.01.55
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458930&ei=kmb9aKC5EqKO1d8Pvfr26AE&ip=59.1.170.45&id=o-ACbik61Qaty_2mSeKp8Rcb9B3VxqHbTGoir4KPTIqxtA&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437330%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5RkZf43zrcX2V-fEJW_WGkHkHxRLCLWFXM0n5hWN9PquE5ioQ--mOsshUE2ICqcjsF98KSAf8yt&spc=6b0G_ATwUvOl&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYXwbiExXQOWGaf4k-xbR8qdyQk4zmcGROrfte7nn57sCIA8QEwWxeZoDtQ_hLU9oD0pSOysAu32-5hMIJcXKlXnf&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIdt1h6dyLMXNL2Z340l5nredCsB_HfQefTEspcYsS_VAiBgmpQ30MffiL-x0pmYJjXTgbZZ9QN6XYc17rQggCWUMg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:51
+Client Version: 19.01.56
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458930&ei=kmb9aOnQK-CLqL8P0Zap4AU&ip=59.1.170.45&id=o-AGv5nmJj2rQLcrXaR-KaxbGjLF2xsfGSTOxb07YRFJ7S&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437330%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RRtZFY7LMM-oFrwA6Dr99q9QhDn46ckIp71_x844VBk7vbJGCzr-MUcb8zXBj1hrqPVC-pKHhz&spc=6b0G_FhrzViP&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKUd4ZQpDJmlqcLvQ4S4aQKURryjOQBGRF-ibrQcBhz5AiBPXC_QRJk2dmqAEQIiHewwuBG8n8cYchmH6ReVrkDGTQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgDGTB2KoG7DZSkg8ohld5niUlQswv8iFjsJLjJI0nRUECIEWRDVLjF1v4owJQTZvuBFXOPM9aAE9V9JxKStEmJz4L
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:51
+Client Version: 19.01.57
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458931&ei=k2b9aKfFCNrh1d8P5sHf4QU&ip=59.1.170.45&id=o-AM6wBxSpoZJh92_QiIn20JLNxpcU15kcgCkl11r35Vfe&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437331%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TYNuVCCLGUDHq-SlA53hlj9XOWGCIxnPvIR1Oz885YeXSNW32HhP3qmX4hbM538Jld1rl-UuZ_&spc=6b0G_FfqWW8q&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgQ0uBuhA6BuMVJsg9absWUopEk80pUpnXUHWqDILKVtECIQDMThyA2GGdGH2a0RUygkHrid5rwT-iKmKDH_wP_gs6Xw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRbYlarkH_elsJmbfFKc-BCux3D7sSVblDXvJOFuAf6oCIHN3ffqf14YQEgFhpmRTrp3j1dHGUvTi-_CKffQ7Y8_a
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:52
+Client Version: 19.01.58
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458931&ei=k2b9aN70IduX1d8P5ozS6QQ&ip=59.1.170.45&id=o-AK4ZG_y81GIUeWmlZ4Rldsbk12Kt0koNFO9i_it2tHh1&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437331%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5S0mung87jRnUZ7vtHmreL--wkjVj6lFw9YozU6YivvJOZ8MFB8FAgK9p1JI3y_7ly6anp6pS60&spc=6b0G_F9Sl84f&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKZMzFy2zBPx6BkxJQpz01UWAnSu2Yt6O7jt_Y_bnnoMAiAY6848z-SsX_3fHtSViLw3VSasQXohWz7oIlDhDxISRw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMBLra_QDrHUiu_CbSGG0Pzcy3gt3eM0bO0SuuMv4UxdAiEAnirpDhUZDFOPhhL-bFiwIF_SytJ4LL95fvEoq-6EmyA%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:52
+Client Version: 19.01.59
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458932&ei=k2b9aMWzO7uJ1d8PoJHziAc&ip=59.1.170.45&id=o-AKXE2brFBarLmWORF9I_vjN9Kg8ni7AIH_1EbPOVhowk&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437331%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sks71bIdRJ56nZ99KXs7AAy0stYStnP7aRlhnq46nJimyqPLxJXIIdU7_s9ozW8MXNeU7RwtMp&spc=6b0G_AA5w4tW&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgZR9Kpna-OVlL2invfwRc27-VZ7_LBpmupQxuMjMObjcCIQC7uezK9nUWusG5Vf22OjcqKDjCVP5abfsLiC4NWEemfg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANbCnjiCRDXYHXbCInhRt4zaQWrBcTMe6iMD_g9tkQtOAiBEazS3pgmFsTaYfUA5DVyBlxgIUPfXShz2FlU3DbxPhQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:52
+Client Version: 19.01.60
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458932&ei=lGb9aLKUGLiN1d8PiPG36AU&ip=59.1.170.45&id=o-AJ3hGFWsSIIHltVNjfGBERYNJDbt-LD1Xj70Cbn-3f-b&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437332%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TdAC-g-aTAcdFn222zXVlfAv11RLt7wcJG74u6kUJfAzwSUE5n4LHgu5MdzKwL08DeDB-JFXxE&spc=6b0G_NKcoaYx&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgS4sTt7AltPIYJAY7Nrym9n2UAoV-gCM7EKVXI0ghsToCIQDHpvS8VzAHIfR1FhzUKDQ4Kdgh1HhyNp1hIMgefXaCOQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgIfcmNrCZI3lD6uLY6Tvjxh_23HPQm7-CXa4kV5Y4_TUCIQDkdtbYAHHItGrdNcy439RV5JXnSvphWBGyGNIObBOhcg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:53
+Client Version: 19.01.61
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458932&ei=lGb9aIykM9CKqL8PgYu40Qo&ip=59.1.170.45&id=o-AES_KUFtIfJpRIYEAd2a-HaCEJhaak0Xi-I3ICn1x7PA&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437332%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Sjms6rLZLJOvBlyKlRTMEXog1_4a2sM0Eid3p1B2T7dngEdkb6HG9tulS0uSShpi5tAyLYr_qe&spc=6b0G_Gmqi0jB&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYSJ9DpBNLki5VRco4RBx_KRgr9k0PnmvfPBB8OnbvYYCICsmhkqn2GD5DftFD-llDIvANsoiKJ6Qh4apmvw1h970&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALudmJfxRFVFji8R7QzsbTo_uhje-r6Prh0SFjB3T133AiEAprt_sByo2uXV33UTYkVt-vFzNblAzWHtNEHJ8doczYU%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:53
+Client Version: 19.01.62
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458933&ei=lWb9aJ6EEN61pt8P6P25uAg&ip=59.1.170.45&id=o-ACT3wokzEIrqa_8oxl29qc02Gh_myDXeH2_rhsyPO4N4&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437333%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RYgJzGfvYFfKt9OMviDufSDYt0CGLpuauZCBc6H43uW2PLtINbzC-fywnnI5pijUKxNjn8aXKD&spc=6b0G_FXt7wOz&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgFRngJchtu0kiaiYTN0Pf4wj06geYXAwMRKiu0-mclp4CIBViDEmVzkFEZN1xDIZvOVU8CsoslRVrC2GLNdqHFpyx&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAIxq8QDTjRPKAfCEaBDuwX-ZQXydXKCEYtfIGuSCCUSxAiEA2DNQBBofkan_vF-4vxBH7rCXCO9ScMkc927sJngOLgE%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:54
+Client Version: 19.01.63
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458933&ei=lWb9aKWTKtDT1d8P27-noAI&ip=59.1.170.45&id=o-AJbr8A8CG35VCVmOcZDAyT3D-rGkD-nQqD4gMho9tTFQ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437333%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SEWdRD9YfM9UCvPnFMNQAGwc5HdAGBmnnaQ28ae0N7EyBg-LN0IXfGL40MugGz04n1mTwBXMf7&spc=6b0G_DO7yg6l&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYMdQLslQEuJIRUMbfVStoQ_xJyzEN9cMdtL9GqOuR48CIGb2ig-znP6AcbDcCiJ8_sQnGdMQe9q4o8Y6YOPf-KvM&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgUX-v0SF2RS8tdQN2qCR-Rmls5-NZ6IkoRDkmhHsF2X4CIHok98EHlqi7-x07L4z4VV6lo4URntytfFPEnafszBoK
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:54
+Client Version: 19.01.64
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458934&ei=lmb9aPL4BrGM1d8Phunt4QE&ip=59.1.170.45&id=o-AL50TgeaNDrsQrz-1E-FTrxcMwnjfubMpARTLhsYL4e3&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437334%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SwKunNP_FB51eLiez_UAiYZnNKFX6wZzpV0vIZ2Tk--6wIgnykNpH1IfteyZ0ZEEMODodcyG3n&spc=6b0G_J-O0Qg9&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgYYkTmUXMpmFlalV7KimNxC1NvdycEikYrRXp43cs864CIC2QX-HIBuZFKaYl1pC0Fv8N8MUtF4fASTFIokJK9ilh&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMyFE58Y7sbycajmU8KpZLG5bJF6QRMiA1IVWw_rOQC9AiEAuoekKjdFxiqChTnZPE4mP933O0-Bi7oVDx2GQVSGmhk%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:55
+Client Version: 19.01.65
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458934&ei=lmb9aLKiId-W1d8PlPiSqQc&ip=59.1.170.45&id=o-AOvvTVGyWJhwnqRsOWDOGV3tmXZAc9tBTC14pn5M_zlJ&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437334%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5S5WRwbuem8LkY4EDz_IliSovKHxnLswoFbRJu8-egvHoPN2DCEsWNOYrTY5DZjwnU4nsL06BWn&spc=6b0G_KZG07uc&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgapKTtkAxD8fUdW9ixIwJasqzn1-77mBPbPB1v43MQl0CIH-OBQL5XZgmVaaUaq8CsKFMZtmVd420Bz-f__8YyFK2&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALReWL4Cl7OII9Y77WrD8Uuzb4zgsJTf8itgySKq2kBpAiAZczX5MSbHmxtINzuJdwf5L9nbMhgNCJzH4cgglslcQA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:55
+Client Version: 19.01.66
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458934&ei=lmb9aInuOrqW1d8P7PaW2Ac&ip=59.1.170.45&id=o-AHSCFaktT7jj48ANGBHKcri678R_sMK00NWsvHlQcJ3R&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437334%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QSaOrVMgZVraKotQbzFS-0cgGq-aif6YXrrPk32FtROuJTlTvV_3dkEfzBX-a3T4NUWXlv11Oe&spc=6b0G_Ms3M_Lf&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgauiUz-74_z-kT3vaIcChItMMke61kueKJb2KQtmPHpkCIGkXUXXFvh278VlICGyVevopDZd9fwRiQbr_syeGJ7Al&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgBKJjJjbL-kEjSszhb1dJQ8oJwAugy_vhxjcy6KRbN6kCIQCMFPdvTSj4Na9yjCuLw9qvbmZxQiQ1tmsUvWuFaIUWkg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:55
+Client Version: 19.01.67
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458935&ei=l2b9aNCoF7KX1d8P16LNgAw&ip=59.1.170.45&id=o-AHu2EdV7xG8nQLuJ5dMqzS9MbbXV9wAA-sz9rVCFx4lu&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437335%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TYwvjIjQg0QBwb5cDCnEz_9Csb6A-BqentqJ82IITLKDTxIu-O3-NYK15df8Q8L6ST0A2PN5UZ&spc=6b0G_NAwxJsw&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgGrjz1fV3iAA0imFZ7N_u_gq3MZSW39XXcz_ABzAZQFcCIQCudMta0B1TYe9ENJEIfQqQRqoSK-E5d5UUgowtl2CT2Q%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAO5N5X744Z0GPX7gAtho58QRYpvWQazJ_IeGY8cq_P_IAiEArtPQL24xo5Rs1CgIHB6NCFrtxVBPE5qeXtuYTnVk6SY%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:56
+Client Version: 19.01.68
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458935&ei=l2b9aPDUMIWY1d8P-NT_yAE&ip=59.1.170.45&id=o-ABZSf7SGC33Pg9NTrvcL97r-B20mK7JfjkEU4AJ6fY0F&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437335%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SLfy8VxtX9DTIy_Wj-JoWjoPPFpIIP_r2cEz7NPqw7j7xmIBAw8I81CXFHLmm5ri58VLnBzhWJ&spc=6b0G_G_e-uiG&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAItK24FMRb_Wv_gAHQ-zwxftHm3FCeXUwcqPrON01bDkAiEAlEgPx0nW40iPoLvGzrv6d3yORetQlrcjWrvybwfqiU0%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgdMohJI2rbAFE8J4lWhljnQSKCAvQgoNo3yV2gn-0ZeYCIHFITNAPEXf5inU3GSeR24LB7BH-n5Av4wY5Hupf6_9C
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:56
+Client Version: 19.01.69
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458936&ei=mGb9aNC9DezD1d8PrZC3-As&ip=59.1.170.45&id=o-AAeXUCgf2jWK_HmX1-GelbVacZrGswLLeN5_RCKNmMLt&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437336%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TWddTzvbA-arjf9k-qCSU53ydgXK6kAG0w9tKr3aVh9HJ0aMPiuUTRmsMtFzEFFnMqFqY-V4W0&spc=6b0G_IzyKBgo&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAN4gdtnl1J8VBIwYpZgV-cqdw89hkZZNsn_nVXqCEsJoAiAkt_M-Bv-FPCuxQh6Q8XyHl89NNH5Chp01-FLUgrPnjw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgUKwVN0EfDjupy9U8r4vGsYVXE71TYlx23LwvIoyhw9UCIGs4_U_ghqXIcNoG_5g9aMGzZhrzy1ohgbSTD6Dh4Scz
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:57
+Client Version: 19.01.70
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458936&ei=mGb9aIuYJ8WU1d8PjarR2QQ&ip=59.1.170.45&id=o-ANQkZ7GD6oS8gPkO4iaGaHy1_5h5QYqecH4H-u2tjy9M&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437336%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TBGa58MJeyjXP8wCDqpkUnpXElcKWTRh9x06hmM2M7wvPnvECuSxwH5I9fML7aRf-ADCJRx3v1&spc=6b0G_MBCJGXw&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgTNbUzpg7-htjoKYDRS2GTBQ_m-gqzeeMGtjuBwAxyHECIDRJEWYoz1JgFGqRE4GtDTfC1ea3N_BLSBZUMIRehT6H&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhALSulYB68y6YDa3QLfAsWHVL8tSWi1bAbYH_Lj8WB79sAiBWhtZuM3eBbj483X-uxTsRouLB1OhoWXtu98RjB9m2hQ%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:57
+Client Version: 19.01.71
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458937&ei=mWb9aMGkA-qV1d8P9YbywAc&ip=59.1.170.45&id=o-AAhAA05tajBZJNFBPGiHt_MvEMDnG-AIDQFG2KdOJkOE&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437337%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5RhNwhlpuNKhGx9YrRMTwQ0lSQ440QjNJ_CJOWa6PkYrJFv65xT0Jn4RaRnVuvSj164uF6cmWLZ&spc=6b0G_L4NdclI&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKJjIn_4jUmEPL44DVhuRtPlp-WE5IRPgHcHr71I9IZ_AiBZO_MBwG-7iWaamA6ZID_9pft0EOFwhMt8MDEtSuhmcg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgCc2mmiEH2eTAB12E2NEBJyZ-nHsMJXQNoLlg6rZtTCUCIQDmtGFd5A0xZYKbILmTiJk9nNXcpzhFd1rbSNQq2YxY-A%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:58
+Client Version: 19.01.72
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458937&ei=mWb9aISHHYCZ1d8Pg5yC0Qc&ip=59.1.170.45&id=o-AOccwkRJuxhRKqvkc6PA01jywTpEYAasIzz7-XeLPEoa&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437337%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SolU8qJ5H8tnFlQvYqmFWe9Rjcs_ypTEsJG_ekG7b0N831Ploj7YJ1bVCHlLBGT1kDSc1F9zSx&spc=6b0G_EUqbsnK&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAKGLZdlDaPoHhago2uDALdC7TqaZfRhwAX3Gsx2QH-REAiBnuZL9pwFPB0Hd7fsLmTllW5LKPN2I9oYQPazu8Xrh7Q%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgK80Tm0FTgnTfmh5GTQ1n23_pDqGbJgSWpxO4LGAbVkQCIH4l1s2KHjhyYGhPNT3un3Et6TnknzluVSJJbwU03oXM
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:58
+Client Version: 19.01.73
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458937&ei=mWb9aOmEN-uY1d8Psd_z4QU&ip=59.1.170.45&id=o-AM4G0WDo4kIpRhLso589ZIX8-Ra16q9sxKpN2LrwMtxR&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437337%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Rne2pQE1MevMLSZqPTLTWyyC2wS788CNQSzAtchs-V5TYbNfZapFByG2I_lwMg4GlJClk_28Re&spc=6b0G_G0PURrw&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOZ8cDDMWKt-cBEhw55bVspglvNpkkdInJ668MLokvBxAiEAwR0ZlS-f9uf43hcTJEh_n8aII7is5X2Z-d5Azcfie3I%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgCfbHxBeNRTl50uOp3z9JEjVQC59-cGLHZbqaS9bdBkICICKHp9bD10oRRp9-swpb841OTrqWUMEgKghrYQtQPoP0
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:58
+Client Version: 19.01.74
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458938&ei=mmb9aKK5E8CN1d8P0IWQoAc&ip=59.1.170.45&id=o-AE6bxXbUXwHUnwfOQIFGAWVZkXdhDthO2DoINhcoJJSl&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437338%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Ty_X6rZf9YEkREjFtF5xFUnSay7Wfs5N3Ib6cpttNvevgbsNLJeAeOoFTSrGheMcR5mJ8ITn1l&spc=6b0G_C9FBYZo&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgKLpgqC6tB6y1VQ-SL4eCB9yC59mQN488jPMmtHsbIj8CIQCfPVDU6_6AXa09DV4eguduZssJNzyug9nkpOfk2uQNuw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAOKfcFhSysvAP9iILBX7hr8R0q7KmnarHY3F4a7L2OtnAiEA_FNsWeKHJ1XStyFjCQmR4VTPQ8crSF0CCHXKNmG_kz0%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:59
+Client Version: 19.01.75
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458938&ei=mmb9aK21Lb2M1d8P0rLxwQQ&ip=59.1.170.45&id=o-ANXDzXbQu5DnKdGylwGCQZfIZtb6cd2XXVNzmSXgn9ub&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437338%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5R-Uwg--BKpYoQVUlBNmUtYjf4_dRsbBlGFLhC56_z4v-3ikF8smHzMNUE8HdNRvIILrMH9oSlJ&spc=6b0G_N4Ej3jG&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIF95UkbVSa-Nr-g5oSQRfR39f1T61Kqp7ZTA1HVj02YAiB7ovpquMhVXF4RDpUe4Xybh0sXzun9vsm68omCdcNNzw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAL3mFbpAeWx0w_TKl3M2sv923dADg2CXz2fhg1eObwzdAiEAvjbaM6PjT4EDi_t2GIoUPpt-1OxQgAuhepkzHEdwbzs%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:08:59
+Client Version: 19.01.76
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458939&ei=m2b9aObZCZGLqL8PlOGVsQU&ip=59.1.170.45&id=o-APClI_kGwyppehYIMCu0nQXZaK350mdzkN1_ILjmSuh8&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437339%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5T2A_Iyo6SYXlXNKbneGQ44X6eY9y4drfUQRpyRclKkU_y65BCPLWXQZ4YVGHxNQ19kzLzBwR0a&spc=6b0G_M64pRA6&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAOaMB3LJO56RlKC8IV4qms3wdbmP7njcdzLndkFAaBP3AiEA-0DDU20g1aiZeZQpuwswMAxVWpVaj-kAeERQ1wzWFLY%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMft1My3rRUZiR8_fZYazL3ljpLKno0AzIBwrsJVLxjrAiEA2yiDeoZSLPyPnT-Ra46a13enAGLqGaSlNUAe0P5qsqg%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:00
+Client Version: 19.01.77
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458939&ei=m2b9aLKhI8WU1d8PjarR2QQ&ip=59.1.170.45&id=o-AP_p-_RnKmAuf9Mv7d8L_a1-pn9BDvJJdZuDqyoRi-0I&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437339%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TYMUsva9ADa7CMnIQE193YfAhbY7ygg6HGJRlM3q51OywX5P-UuSFpImkFyJ8U3kaPBMe_gzZc&spc=6b0G_B3tR4Tu&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAPf3gB3qIfj59NKbmlbdG_uYKT20mCboI9ADE6Qu-VcqAiEA2heconiRaZJ3XfpejjEmhQ3Cr0DqiYCSlwOfX2Xib-Q%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRleQL_hx2_LF1UEzC3kTW9vO-lQZeBGk6HYvVy34CD4CIG7UZuZwocd33_iV2_d1ehzl5nQNmN5CR9D9deWR6loh
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:00
+Client Version: 19.01.78
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458940&ei=m2b9aOfvPP-W1d8PxqOigAM&ip=59.1.170.45&id=o-AB6BUPjzZ-TrFccASMsjL9nFSWtSQUe314H_CB9Fbyhl&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437340%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q9XPe61Mt56nmk7Fwff6hG7-3rH1fC7Cm3t9uTdapFVC1Mpqre3fUTcHwrFjZysXRCvc_CQiRf&spc=6b0G_DVtdOiA&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhALSG2XmrLgeGVt7qu_Ads8Malov77msdZJgqJVpboAFCAiEAoyAgyf-jU0U3db36gZgT_GRM_p8qa0Yuv0sqIsiRgoM%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgO2cR0cHdOhwhw7hOt9ziQ69CfWngbp29CVuiWYTjxrACIG1f-9M_oQWQ2bDvPU9tyM2G10sThLBW4MCmvno7wgu2
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:00
+Client Version: 19.01.79
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458940&ei=nGb9aPr7GYaNqL8PkeGj-AU&ip=59.1.170.45&id=o-AC0MBv0u14gRR-7mmgCanO4v0kJoFjzhte07TAqhD5Z3&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437340%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5R8miYvdnmgLfh7Q35mPEyPbPi6kAxJz0fs-NaGwaVE847h6p6DuvbrGgYMhex2Ltvap89pMU3w&spc=6b0G_GhJfq7P&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAIW6Y4_q8YnXsdfJvgRBDWM8-4yF9hOmkO53lgsyKb8_AiBw6UZRiCLXjagjTUM36P73PpwHvLQW1iOmh1W9wm0Asg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgNv_GJ_QifSthLPy1DFtgRtZeYJyZjbZ-nKiUD3a6DowCICELaquTVGEN9iYz8FlphPXPR-K-v2KUMQKQ-qF9sibb
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:01
+Client Version: 19.01.80
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458940&ei=nGb9aKn1M_aV1d8P39HliQw&ip=59.1.170.45&id=o-AImNO75DixfIiTk-UCP9I9wY1LqqMdACGAcY6e4cQHco&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437340%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5R6PnBOez71ocGmcYU6IwGruP8fMRj3v8VHApy-8jRY6pdLnezYq0quJ6AF-4yq9I7Qt3NUTnec&spc=6b0G_FzJeBLb&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgDRprHtVWSeIl2l2qQIknRbuvT_httUbMnrfpsBNrinsCIGHKfGnDsazLcCmexGpLlypZCvIb2piBFQjnO-rnTqIT&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgdwK-lTj0v23jVP9885Ec0cTVZfHSY07TIb9O9TDoUcgCIAwT69GtHoXbZZ_yCAnEpWX9R_Msw4BMSCn0f1oOzTPB
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:01
+Client Version: 19.01.81
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458941&ei=nWb9aOC7ENOy1d8Pkr-KyQQ&ip=59.1.170.45&id=o-APeENhiT47Hb9phef4bB3mvSqu6LTPJ4N4p3bTFUHGLK&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437341%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5R16zOjPkfCKdIRQQbECTUZ58UpPlcz-GMTOToTWtLUTiXwXlJCAaeDLYnDmM_Vti8C56gc82JM&spc=6b0G_O_MXnon&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgGubiHDOJMHh6PzrvBujP6WtTOELyZly3s1mW9vkKHpYCIQDEGAHyrZ4ARQ2svK3TenVp_rWI_qfea3Gy5Z7ZL4lR6w%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgAnX3r9dTYhLbdnxeyatjp6TRbEzu0Y0066mzCJ1PvzMCIHBjh0H55G3NE0Y3GhRmYMoEfdL9qMzLD3UCxHZHxlB3
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:02
+Client Version: 19.01.82
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458941&ei=nWb9aJmOKq2NqL8P6v6dsQQ&ip=59.1.170.45&id=o-AKWqu5n8FC9BZDkUFoGJC2-uV6aOImkZjYfCfyggsrpn&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437341%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5Tv_bJ6xT85pnB8nQsvtXcq1b5cY29xFm8oRp0p_BbK4A93_OK9JHEQhsmYR_zNOFjn_p6ynsEE&spc=6b0G_LwDwSFR&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAOYqa1a4YB35m1qis_O5w7HvKr1ARyeJinHBiRdVJf1XAiAlnkZ64g4xJfA2pxpzPSCkYBdSFnDrAdJlicfVnpbVgQ%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgdARqIXQCkaPLxuOTtfKsaLV2sJqde9pJJUYLQ84EwegCIG8Vvj-f8B2o0qXmT7GiHz-0vL1XV8MDgz4v2l6zlSG8
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:02
+Client Version: 19.01.83
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458942&ei=nmb9aI6gBsyJ1d8PpaKj0Qk&ip=59.1.170.45&id=o-AJjZsw737tneWZLDuMRXT8rL9MZmy9E9OLUfEEjSm192&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437342%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RiZKMXi-7uRutVkcc7iaz956HAiWcsTFaM-4Jy1gk00WkkucBD1aYhTNasBYxfoel85uxzFIfN&spc=6b0G_IRiKxo4&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgREAdLsN4CkwEleGall2kVuxDAkq9Ifd6eIO1iPdrOYICIAbQEleIw1MXDxxLs1vinRvVB8kku1rvF48wKAmlwwOQ&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgdqQnzITkzMIRCn9cwsC7vvYLMjEIPqoX0cNrfQGesm4CIFtVzRH5ruoh6A926hjPcUkMzMuWcHbmjJLJc201DVug
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:03
+Client Version: 19.01.84
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458942&ei=nmb9aOGbIK6K1d8PkIv8iAw&ip=59.1.170.45&id=o-AGl3XjwPtVx5-zTCSYSsNVo8MNqvhX23xk7ru8qt8mgY&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437342%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SL7BI8MTcfD9uVyASp9lD1HkB6xbP-7-JGE1mLWpcYjYQCYV7YMWJloyAinT2Rdm3dajxoLDhL&spc=6b0G_B6iUfwx&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgQIdFE7zql5Tvz4NKlZvoX6IeNt7PUg-wxjWe4u2F_RMCIC8_DUwOELbBUL86rVVI2EuMSlBuclb03t50UZDUL-Xf&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAPju4_NmewoAS3OnZhDtVI5ViQZrxLNl3sqehMCFdRiGAiEAlyNV0oQQuEF_HScp--cSr5ZGp_lY9egqgnMhsQS_xpc%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:03
+Client Version: 19.01.85
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458942&ei=nmb9aMnOOZTh1d8P25CNuAc&ip=59.1.170.45&id=o-AByYmqqYt1p8kjWR6baZxVX4AhHmWobZSl7bzuGt2ecV&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437342%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5Tdie4eEdEe_N43Czyte1rFVNcNV7fLd-Z9AD-zWwKTuFr5gEp8227P8sJWAfaIAvVjxfQr9fVP&spc=6b0G_FLNhq-v&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAPKjiNagGTGYvf77kasbJadklBUSb3_Ye4rC034-8fNmAiEAg1Tgv7ceCQclBMv6XFOpy2Fx2yprTiVJhGBnnGdYNL8%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgVtZjYc2YSafTHqjVdB5gjCcv6ia_2_jVNpOnca57zfACID9DUO8_35eBUv8nvlwulLg07JmpIvMGJxWwtXD_7gyU
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:03
+Client Version: 19.01.86
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458943&ei=n2b9aKT8FvmW1d8PzKum4AQ&ip=59.1.170.45&id=o-AMStoDb0k6a8HHZtNAklX-fCQhVrn79pLBSEuNh2lTo_&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437343%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Tjs0MRmmDmofb87tcOnST0GwJS4kNFwIcY-8s_fLxFWQ_cf5H1e314FoKY7xFLmk9eOX2mhLmg&spc=6b0G_BarYFQD&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgWfWkmP-eONp9X9LoSJUgyByUoeb5AN7Q1ZdueRaGGjMCIBxoUlehF7T4eZD65I0AjLddlhwwit_7o6bno0fjbPw9&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgNg6F5k_biDDvQmSEbDjJxCThOF86Jz4_9KHADGQ9cn8CIA1AK9O05OPJ8yGU6TVGbdP8H1m7vtYqUPQ7k-FJaFzN
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:04
+Client Version: 19.01.87
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458943&ei=n2b9aOu5MfmX1d8P29b1-Ac&ip=59.1.170.45&id=o-AD9eVCoxFejCfZeZ4qCYNXRXqnZ-QwijlnWxgHTGF09V&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437343%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QDpiZezpFYw1gMABkuQ0dpslB9WZM4H3ynl3GfSIS_UN3VP6iWhHqhms3Ma86aBqimoZG-l0Pd&spc=6b0G_Ei60K94&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgaApJZ2xiT0cR1YQOOFqOROwkhZcx2AFGmP-4kqiqpyMCIQCvCBuKy1mJ6XfzneJWGY7xsPOv-NnOrmjbp1MXM-jyIg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAP0-xfWo-vxbdkqLo_5WDVYgdln9a4g6tIsWWtgx8PrWAiEAuNOAQBB3Xuc5dJFCpAWfsq7eJJqiXtyXjYAUdDKaCjA%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:04
+Client Version: 19.01.88
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458944&ei=oGb9aNyPDq7c1d8PhLTloQI&ip=59.1.170.45&id=o-AMRKA18NZYX4N8utm_W14XKS9qSmJnvc5DuUg47e5hM2&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437344%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TOTLJ6cclxGzzTMcxA913OAl3IjuIBHEkOQXykAV9bo1c3-NLb4gnu7ZDWAAj78zjPWV9pF9FI&spc=6b0G_AsY07gC&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgKM9Tt34gDiauWDdpV9KmTIiTf9Wwd4H2fqg7dTwSW_ICIATarNrpR4X8LQ2BlBNesOlEEd5Jpesq2mrBXf_8K902&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAKf0AKCmIc_1FVzOZUyLVQoh5tUroPYKsFMC5pgTS-P1AiEAiQXAY7cvxc2nQTHGThSTzd7qeNeNEkgjqULC0H8ivIo%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:05
+Client Version: 19.01.89
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458944&ei=oGb9aOLDJ6XW1d8PupGK4As&ip=59.1.170.45&id=o-AHLbEq2Ko3mcertu1HWcnSSEli3irb-ALMeF0ttINhVm&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437344%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5Q7G_vpTPsuybBe765vi6dDGg1QbeCMuhP-n1UHiJi5TWrP5z0RKrRQNfi526afEtiVfBkQFguP&spc=6b0G_N2TgC5A&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgeiV7nz-SC34soESiDJIaqrysnG8gWE8L2baIo-JhezwCIQCs6BHY7jGnVHeDMxn6N7AbPa6BSYUegIfQQ9KqfdAd7A%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhANuVpnkNvMNeX-hyK6fJA3_LhtxIrnkxiGNpROtBMUsoAiAwpzfL1Lc_ZV3l20gNxVmPc-Y_vha8F3buQihRUGlOqA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:05
+Client Version: 19.01.90
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458945&ei=oWb9aJCXBMzU1d8PwcfvwQc&ip=59.1.170.45&id=o-AHjIsyOoi9r1mEzTsmlDzLxmxIsc603oMCusTczQ9oVL&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437345%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RERrhh-OkFNwF3kxi-rML4tA3OblWmJT0U44pUA3AObUZft7UgCm6LTeOGqzk_upkJvs3pSSPv&spc=6b0G_Fq8REYn&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgVrpqpZn3yqv47Vee_IpcoNRV0eF4fvQnkGyF1nviUngCIQDhl5yARyqnvQGnsUmPuGv6ZICHuTZFx_MDbVlG82TRLg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgeRMiBqDs1OMswjDuo6pj9Wgs-34OspYHAnzSJy_UHhICIHVR-o2aOdoXsj8OFW-vXYZwTvug7T6D-n_hVRCpyWDv
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:06
+Client Version: 19.01.91
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458945&ei=oWb9aNrZHbiK1d8Pw8qgwQQ&ip=59.1.170.45&id=o-AFkHadue-bukAOoW7tTnjwPkjN-Zu9dFk_b0nKRCbcIz&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437345%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TpaTaRUmD5BlS-QDgVVIv4dyHYsdOcibB0mShjBTny5zCkcs-AoKYIBOuVul6Jd_O5_oEUdqmQ&spc=6b0G_CR7QWw4&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAPW8igYfcqbB8i2XPiJIk5w9Y_ouDHiQLbE5Wy8eM3gtAiEAw7F-4Z3AMA7jGaH4r47uhDOh3DUuqCqsuWXYFkFVoLk%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgMUCSfz9IoKz2X5XMOfLV1crMLhH0dfMaXk5wCI4hQisCIQCghSMvftwMeww_fbpTt3JtOtOF53_l035Dz7Fe-_l5XA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:06
+Client Version: 19.01.92
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458945&ei=oWb9aNi2N_2V1d8PqI3Y4AU&ip=59.1.170.45&id=o-AORcl7JmHsLfFm_76nTT2OUoqRTkFXRDuBuwM3fpNcdx&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437345%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5TTGe6jY2__lMSg7c8gBBc8UgI--VmWotbWXBYJiXDPyl-FrIel9z41G9kaK7LxH3Cp9PDqICgH&spc=6b0G_LpNjwOb&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAPkG6Ol18OzbR7Hat3hGbhLigMkNA6OT-2tDaIj745A3AiBVkK56BZHd4xaG0BwblY4WWOCVjRnyk3nfwvOL2uNwAw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgHdyVGLZrQpO4Y8y6AXTs6VpwIPGM8X9GqrwFJwDv4aQCIQD6QJyP0Z2Ku7I_k42Tvrc4_CyWO46jZ1FAkG7NmROvkA%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:06
+Client Version: 19.01.93
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458946&ei=omb9aJGLFNeNqL8P69ST6Qs&ip=59.1.170.45&id=o-AE_vbMby7FgWP65nhAr5K6MxZXuM7WDyL8aySMF8UV2J&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437346%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SoXq64wcmUX3xPhDphDMo1B6c0oITDeu2ty_kGv0z5WlkqqiWu3DZsoc7wnQwwd_rO8oWGI-en&spc=6b0G_L1plVat&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAKtqKA83qu87mtbFdjqZ_UWO7F198Q5Y51QbKfhtPQtkAiEAqR4ufEx3a0ADEKvz50ZZv0LrW6Ek2pBTSy2rceWeBtQ%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAO8RuG31xKlJ1Q7cOhUbcudwsYEFTl_6Xrl6pYBUVbLNAiEAzfFITkEYBoSBwIvu5Zd77ftq9pB-MsUNIGFyWRahPRc%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:07
+Client Version: 19.01.94
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458946&ei=omb9aNPeLs6W1d8P0oT32Qs&ip=59.1.170.45&id=o-ANfqHBsr9yDGKWT_ng2L8FH8cJmp9mndcM_0VIHJDqgd&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437346%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5ROaUs9pmedWx91AWlzMoWofWlag5vqhzCoLf_L1aTIO05HhK4jHvGx9mp77j8swUJVzVpb1QBq&spc=6b0G_G3Vlt79&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAM1-xBJhtkqCXGVlA264PQBzlMW24T3M_GYjyQ4gUHSMAiB6mPi0O_zsHp6iFx-41zbats_3Eqq7Z37yHM9q_7Mwtg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhALYYiMZwxlqpuktpcdUJi_6gMW-aL87EmOhfOrzPIiY_AiEA9zrjQb6uhffJNmtRxyCr0g9XcQdPim6lPOTq_ia87eA%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:07
+Client Version: 19.01.95
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458947&ei=o2b9aJmXC_7o1d8Ph9qE4Qc&ip=59.1.170.45&id=o-AOOTQtjdwnxgS1_k_bzGi4RCPQJNoZnm3tebsdBkW0B9&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437347%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5QvPwDlcBI9foZF7BMzaYew9nz8q1gAikGs3PvjCjx-Gc42ajLx2HLQ4u08w_ypAcWp4x_9-G4q&spc=6b0G_Jbf_5ux&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgShYSau5iyTlJib1pAorOZhJn-v7EUfMpPcDQreRQN9ICIQCkyuhWUPbHfCTAF8J1ZmIL1UZf-YDodoWbH0VsFIispw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgc7AN9c8Z37GfbXd19uApSma_lHrCmD-raNV8ozngklICIBZzg6hGUHy-Yj-Qv-_XjJJ3npkdmpkJfDZSPbSnUdNA
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:08
+Client Version: 19.01.96
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458947&ei=o2b9aODcJKCEpt8P46mXsAI&ip=59.1.170.45&id=o-AEOSHNph1qtnSeETfGjhds9exkVrmAVMWKlqco48fkSE&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437347%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Q-b9mMdeogodleJMFBkFVapW_qkJX4489UBgJeIn8T_JlJGMMe6YdkggRNZv4NHIbaNr8SoNyR&spc=6b0G_NbAUyN0&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRgIhAJ0g6SuS-hdakC89-h6G_8zDjC61Rf2uHgR5nnuw0fmPAiEAzKWH8a_CXCaRbFqfU3MuBz2TaP5FlZpuT8Zmmodn0Bw%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgOQfExf05U9hx7bx_qIGwSCump9trqZsIJxOQdwD7pj8CIBzusC_hWlsYIiMB_cNe0z57oHzHQd05Ndlb6KfKMzbN
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:08
+Client Version: 19.01.97
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458948&ei=pGb9aIfzAZPg1d8Pi6uqoAE&ip=59.1.170.45&id=o-AGsYQb_XqLZhSEIb0AVS5Gyx1xPKaVZFoCa3OI4bEc3F&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437348%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5TnB3MHkotIG-XhaSQwmr5OlFyScNdI2jHYGTG2fG99BurKsuze6He8vFrYnVehyBcF45giSLlp&spc=6b0G_AC7rxv1&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgM5_HpxCVRpOWKFlDzPK_wk94R1Evh1zV_9qoWacM85ECIQDA2ozGlEORL-SvSE1uCPXnzjnw1VPPBJM0ONoSIbs-YA%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgCLhdOPCRt2VYgPYPfFDthpF3J25c4PGQvVYEyAVOrdYCIQC7OVkvA1kCA42zU94BArEK6dgI-X1wuQ6YJhemHVHetg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:09
+Client Version: 19.01.98
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458948&ei=pGb9aK67HYGw1d8PkZ3zqAE&ip=59.1.170.45&id=o-AADR16NaVUP_aIo4ICCzNZjKFwFXxgUcYaaEoW-hmJkN&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437348%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5QsDQU7zcK7SggC29Mqv2FeQbnE1u_5jYknofGikr-34HJIiAvIQ-E3rz3mFxxomcd0D3s-5g1-&spc=6b0G_M00GcM5&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhALgO2J-Bz1y3GV0fWDT0AQjnL0TVmBJseW5GxrFL2ThAAiAoMh2Zpm0euenRl7IHOIHRhknLblt1sRoGLOvee39xBw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgFp7U0a40N3xEoc6NzXiFxDsCcYgZIGrP1lD2OqRjOxYCIBLsq81t9qRJNO4LeIikWeJezKyTcgTYH47_ZJDFchS8
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:09
+Client Version: 19.01.99
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458948&ei=pGb9aIDfNsKNqL8PuOKM-Qc&ip=59.1.170.45&id=o-AAqYiZ2zPID5pw0kDAPSM1B4iA_C5Mp52fRTd2UMM4C0&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437348%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5Re-ItQUqI2JIreBM6oQIL5d5LEjrnvXHsMT6eUasF94H72ILwW1Ggjvh3h4BYOo2REIY23Sslh&spc=6b0G_PwDplvQ&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgL5FbIOoWFlWjw05P8lSmBv1ibF8P01kUyEx3X9Dq7BMCIEIswRG_o2N_3ATvCFZ_9dYeg18KJ8E6KKDI5nW5PRpP&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMa6KuA5uVwid3OvXoV66dAHKOpiVIc7Aw4YyT2CnJl_AiEAigwzONd4jIORT3o6VlvdwFx3ifA1Hnk2WKWAC6tU80A%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:09
+Client Version: 19.02.00
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458949&ei=pWb9aPabE6DW1d8PnJHL2AU&ip=59.1.170.45&id=o-AJG3UMa72J3t2N04iIWYR0G3d95eUxl42eK9U3qMBgun&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437349%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5RFXkdR-3ONPwvZaFTqzkzGW2pxT4qSqniuzMMfmKA5iXGUlYFxiE7gpNccS89TxNQJvt0YJTBx&spc=6b0G_Fa6HGHi&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgaLQHCdNBM3n0oXHIDsdMYeE8TW0kxwFVfyjOuhAsbpoCIGUHOEA2NneqWiBISQVB5_U6eIvZVAqSna9WgGcPO9nt&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAMTdRDAQ3J6MDaLBIZQbrgLG7xxXAc3lH1mp_ea3ltfvAiEA1dpeebtY_mR9_X8-mx77hhxU7STRPv27td4hJV7h6NI%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:10
+Client Version: 19.02.01
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458949&ei=pWb9aLWFLeeI1d8Pg_ii6QQ&ip=59.1.170.45&id=o-AOY-eop898fAlI0iICxTWyzvIudwh6UYZ9p5DRKd1fWN&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437349%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5RWnLps7vDoMZVSFajCy6CzTKGdq80y27t-Xtl3Wl2qXjmLA8uhxIAvH49AMsbW4FxtEvr6sJ6v&spc=6b0G_Jvc68Lr&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgG7vjUBObibdaCIH9pWR2CnGZVJIe2RFsqCXEYb_-51MCIGLsoGEoxaJKnhTEXGTPFxKsIV_sSiGrupBbGs9uyYoF&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgKTaUfN2oryPu0iYYKSkUaIxlw2FIuQ_uVJnVyYGu6hcCIQDDg0xh2g1SQPOtstNxHsEXhVIQW0cnQtNjtq5nAd8t4w%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:10
+Client Version: 19.02.02
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458950&ei=pmb9aI_CCbeJ1d8P0K7i0Ac&ip=59.1.170.45&id=o-AJvb0ieZksC_7_6hlY11AOGnrUgIkHHjCjbCw8kOTPy6&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437350%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5TiCihfvLQ81CRINS9G1FRaaY9Elmg3BrSZmNnATFEhtjkuO3-bll02Hgqm0jT1-qdBAPIS6_XH&spc=6b0G_HedZc2_&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgBuOk3JRYfufKBIpvLpbmalLmjUQ7v__XEsLDWQCTHRgCIAKdAjb6lHdXBKJJFfrEWAVTwO8FGHN2hFMAxpJ4LAen&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgRT9w_q8f_vQBJaZpmRIfXfIL18LKcgVatIxVqCs2o9ICIEry9R-arfaceDR_4GYeDchDn17nPRUJqMgh72mr-fih
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:11
+Client Version: 19.02.03
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458950&ei=pmb9aLHTI8fC1d8Ppp-y2Qs&ip=59.1.170.45&id=o-AABIlB6Pu2tUtw6QBnulJ0ACoQ4cPPtCgvZSozKUCTlu&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437350%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguelnzl&ms=au%2Conr&mv=m&mvi=5&pcm2cms=yes&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3215000&bui=AdEuB5SvJ70XqvrKEIbo5ONWAqyF-wMGLPCWAb0j0LXOB2tM-_SHLIWkRcpGuqBI4iRVkIaCUlkwH9WF&spc=6b0G_FwPxjGx&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761436172&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgTm8z3zJk6HqRHqje3W32dlEl2XYAXyzT5xJPrAPzUl0CIQCVZyi1GEMJuLrBgz8qeBVbIVz8R7Tzi5g3vtk1jk1rkg%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAJpbheFZrrwuyg_Q5L9ZBfzgoVa1J1nVlOezFOiuVqJJAiAQQFUWgM142WRewh8BLAi3jo_hjviQTT20qqjdjXUHpg%3D%3D
+----------------------
+
+--- 성공 조합 발견 ---
+시간: 2025-10-26 09:09:11
+Client Version: 19.02.04
+OS Version: 11
+File URL: https://rr5---sn-3u-bh2zs.googlevideo.com/videoplayback?expire=1761458951&ei=p2b9aMF1ipnV3w-bxvHYCw&ip=59.1.170.45&id=o-AKEoAf6vPVEKtccXkBQ1XAHvXCcOnD5S9YiND4tvr6Bs&itag=140&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1761437351%2C&mh=s0&mm=31%2C26&mn=sn-3u-bh2zs%2Csn-oguesnd6&ms=au%2Conr&mv=m&mvi=5&pl=16&rms=au%2Cau&gcr=kr&initcwndbps=3865000&bui=AdEuB5QPad-WrUMmJelg4-mX-YpKjMt0KVPI1lBVkxtQHIUwJ4Ndu0v14ubgpjT95ok_DPo0HFuwVSF2&spc=6b0G_DRi7-dI&vprv=1&svpuc=1&mime=audio%2Fmp4&rqh=1&gir=yes&clen=3854772&dur=237.999&lmt=1565877859484007&mt=1761437123&fvip=2&keepalive=yes&fexp=51552689%2C51565115%2C51565682%2C51580968&c=ANDROID&txp=1311222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIhAL8v3zQyB_di5YoyUuDaAQHvIodrQ82kkkQB9ygTp5TEAiASqlVqji67iWkiQvtv3MrUhFEdvencoCBgGLzBg7wxTw%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIhAIlGa1xF4w8g7FGKpDmUp0tvwMyElmD3p2Kgw-FSVw8gAiAKu5mE_3ihD7xzeHXFjWpg176WnMXelJe69gVi7oU1og%3D%3D
+----------------------
+
+
