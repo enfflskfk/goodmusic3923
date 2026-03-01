@@ -68,6 +68,7 @@
                   "헤더": {
                     "User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 15; GB) gzip",
                     "X-Goog-Visitor-Id": "<<visitorData>>",
+                    "Accept-Language": "ko-KR,ko;q=0.9",
                     "Content-Type": "application/json"
                   },
                   "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'20.10.38','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
@@ -96,6 +97,7 @@
                     "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
                     "X-Goog-Visitor-Id": "<<visitorData>>",
                     "Content-Type": "application/json",
+                    "Accept-Language": "ko-KR,ko;q=0.9",
                     "Accept-Encoding": "gzip",
                     "X-Goog-Api-Format-Version": "2"
                   },
