@@ -41,7 +41,7 @@
                     "제목항목2": "headline",
                     "영화구분3": "shortBylineText"
                 },
-              "요청": {
+  "요청": {
     "설정": {
       "사용모드": "일반",
       "반복횟수": 2,
@@ -50,7 +50,7 @@
     },
     "모드정의": {
       "일반": {
-        "이름": "일반 모드 (Standard)",
+        "이름": "일반 모드 (Android 15 / SDK 35)",
         "단계": [
           {
             "이름": "1단계: 인증 데이터 확보 (sw.js_data)",
@@ -63,14 +63,14 @@
             "추출변수": "visitorData"
           },
           {
-            "이름": "2단계: 비디오 데이터 요청 (Player)",
-            "주소": "https://youtubei.googleapis.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            "이름": "2단계: 데이터 요청 (Reel Watch)",
+            "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=<<videoId>>&id=<<videoId>>&$fields=playerResponse",
             "헤더": {
-              "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
+              "User-Agent": "com.google.android.youtube/19.28.35 (Linux; U; Android 15; GB) gzip",
               "X-Goog-Visitor-Id": "<<visitorData>>",
               "Content-Type": "application/json"
             },
-            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','visitorData':'<<visitorData>>','hl':'ko-KR','gl':'KR'}},'playerRequest':{'videoId':'<<videoId>>'}}"
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'19.28.35','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
           }
         ]
       },
@@ -92,7 +92,7 @@
             "추출변수": "visitorData"
           },
           {
-            "이름": "2단계: 데이터 요청 (Reel/Player)",
+            "이름": "2단계: 데이터 요청 (Reel Watch)",
             "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=<<videoId>>&id=<<videoId>>&$fields=playerResponse",
             "헤더": {
               "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
@@ -103,8 +103,7 @@
               "Connection": "Keep-Alive",
               "X-Goog-Api-Format-Version": "2"
             },
-            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}",
-            "추출변수": ""
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
           }
         ]
       }
