@@ -41,70 +41,73 @@
           "제목항목2": "headline",
           "영화구분3": "shortBylineText"
         },
-        "요청": {
-          "설정": {
-            "사용모드": "일반",
-            "반복횟수": 2,
-            "요청딜레이": 100,
-            "오디오트랙선택": true
-          },
-          "모드정의": {
-            "일반": {
-              "이름": "일반 모드 (Android 15 / SDK 35)",
-              "단계": [
-                {
-                  "이름": "1단계: 인증 데이터 확보 (sw.js_data)",
-                  "주소": "https://www.youtube.com/sw.js_data?hl=en",
-                  "헤더": {
-                    "User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 15; GB) gzip",
-                    "Accept": "*/*"
-                  },
-                  "Payload": "",
-                  "추출변수": "visitorData"
-                },
-                {
-                  "이름": "2단계: 데이터 요청 (Reel Watch)",
-                  "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=<<videoId>>&id=<<videoId>>&$fields=playerResponse",
-                  "헤더": {
-                    "User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 15; GB) gzip",
-                    "X-Goog-Visitor-Id": "<<visitorData>>",
-                    "Content-Type": "application/json"
-                  },
-                  "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'20.10.38','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'15','androidSdkVersion':35,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
-                }
-              ]
-            },
-            "확장": {
-              "이름": "확장 모드 (Android 16 / SDK 36)",
-              "단계": [
-                {
-                  "이름": "1단계: 보안 토큰 발급 (visitor_id)",
-                  "주소": "https://youtubei.googleapis.com/youtubei/v1/visitor_id?prettyPrint=false",
-                  "헤더": {
-                    "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
-                    "Content-Type": "application/json",
-                    "X-Goog-Api-Format-Version": "2"
-                  },
-                  "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}}}",
-                  "추출변수": "visitorData"
-                },
-                {
-                  "이름": "2단계: 데이터 요청 (Reel Watch)",
-                  "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=<<videoId>>&id=<<videoId>>&$fields=playerResponse",
-                  "헤더": {
-                    "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
-                    "X-Goog-Visitor-Id": "<<visitorData>>",
-                    "Content-Type": "application/json",
-                    "X-Goog-Api-Format-Version": "2"
-                  },
-                  "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
-                }
-              ]
-            }
-          }
-        }
-      }
+  "요청": {
+    "설정": {
+      "사용모드": "일반",
+      "반복횟수": 2,
+      "요청딜레이": 100,
+      "오디오트랙선택": true
     },
+    "모드정의": {
+      "일반": {
+        "이름": "일반 모드 (Android 15 / sw.js_data)",
+        "단계": [
+          {
+            "이름": "1단계: 인증 데이터 확보 (sw.js_data)",
+            "주소": "https://www.youtube.com/sw.js_data?hl=en",
+            "메서드": "GET",
+            "헤더": {
+              "User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 15; GB) gzip",
+              "Accept": "*/*"
+            },
+            "Payload": "",
+            "추출키": "sw_data"
+          },
+          {
+            "이름": "2단계: 데이터 요청 (Player API POST)",
+            "주소": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w&hl=en",
+            "메서드": "POST",
+            "헤더": {
+              "User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 15; GB) gzip",
+              "X-Goog-Visitor-Id": "<<visitorData>>",
+              "Content-Type": "application/json"
+            },
+            "Payload": "{'videoId': '<<videoId>>', 'contentCheckOk': true, 'context': {'client': {'clientName': 'ANDROID_VR', 'clientVersion': '1.60.19', 'deviceMake': 'Oculus', 'deviceModel': 'Quest 3', 'osName': 'Android', 'osVersion': '12L', 'platform': 'MOBILE', 'visitorData': '<<visitorData>>', 'hl': 'en', 'gl': 'US', 'utcOffsetMinutes': 0}}}"
+          }
+        ]
+      },
+      "확장": {
+        "이름": "확장 모드 (Android 16 / SDK 36)",
+        "단계": [
+          {
+            "이름": "1단계: 보안 토큰 발급 (visitor_id)",
+            "주소": "https://youtubei.googleapis.com/youtubei/v1/visitor_id?prettyPrint=false",
+            "메서드": "POST",
+            "헤더": {
+              "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
+              "Content-Type": "application/json",
+              "X-Goog-Api-Format-Version": "2"
+            },
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}}}",
+            "추출키": "visitorData"
+          },
+          {
+            "이름": "2단계: 데이터 요청 (Reel Watch)",
+            "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&t=<<videoId>>&id=<<videoId>>&$fields=playerResponse",
+            "메서드": "POST",
+            "헤더": {
+              "User-Agent": "com.google.android.youtube/21.03.36 (Linux; U; Android 15; GB) gzip",
+              "X-Goog-Visitor-Id": "<<visitorData>>",
+              "Content-Type": "application/json",
+              "X-Goog-Api-Format-Version": "2"
+            },
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
+          }
+        ]
+      }
+    }
+  }
+,
     "광고": {
       "애드몹": {
         "사용": true,
