@@ -72,7 +72,7 @@
               "X-Goog-Visitor-Id": "<<visitorData>>",
               "Content-Type": "application/json"
             },
-            "Payload": "{'videoId': '<<videoId>>', 'contentCheckOk': true, 'context': {'client': {'clientName': 'ANDROID_VR', 'clientVersion': '1.60.19', 'deviceMake': 'Oculus', 'deviceModel': 'Quest 3', 'osName': 'Android', 'osVersion': '12L', 'platform': 'MOBILE', 'visitorData': '<<visitorData>>', 'hl': 'en', 'gl': 'US', 'utcOffsetMinutes': 0}}}"
+            "Payload": "{'videoId': '<<videoId>>', 'contentCheckOk': true, 'context': {'client': {'clientName': 'ANDROID_VR', 'clientVersion': '1.60.19', 'deviceMake': 'Oculus', 'deviceModel': 'Quest 3', 'osName': 'Android', 'osVersion': '12L', 'platform': 'MOBILE', 'visitorData': '<<visitorData>>', 'hl': '<<hl>>', 'gl': '<<gl>>', 'utcOffsetMinutes': 0}}}"
           }
         ]
       },
@@ -88,7 +88,7 @@
               "Content-Type": "application/json",
               "X-Goog-Api-Format-Version": "2"
             },
-            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}}}",
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'<<hl>>','gl':'<<gl>>','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}}}",
             "추출키": "visitorData"
           },
           {
@@ -101,7 +101,7 @@
               "Content-Type": "application/json",
               "X-Goog-Api-Format-Version": "2"
             },
-            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'en-GB','gl':'KR','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
+            "Payload": "{'context':{'client':{'clientName':'ANDROID','clientVersion':'21.03.36','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','osName':'Android','osVersion':'16','androidSdkVersion':36,'hl':'<<hl>>','gl':'<<gl>>','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'playerRequest':{'videoId':'<<videoId>>','cpn':'<<cpn>>','contentCheckOk':true,'racyCheckOk':true},'disablePlayerResponse':false}"
           }
         ]
       }
