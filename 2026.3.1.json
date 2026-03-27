@@ -35,6 +35,7 @@
 			"지구": {
 				"사용": true,
 				"앨범": true,
+				"쇼츠": true,
 				"이름": "지구",
 				"파서": {
 					"비디오항목1": "videoWithContextRenderer",
