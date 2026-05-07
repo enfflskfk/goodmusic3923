@@ -8,8 +8,8 @@
 			"패키지": "com.goodmusic.music",
 			"패키지주소": "com.goodmusic.music",
 			"버전메세지": {
-				"all": "The following fixes have been made:\n\n1. Fixed an issue with loading earth music.",
-				"ko": "다음 사항이 개선 되었습니다.\n\n1.목성 및 기타 오류 수정.\n\n\n\n항상 노력하니, 문제가 있을시에는 여유를 가지고 기다려 주셨으면 좋겠습니다."
+				"all": "The following improvements have been made:\n\n1. Fixed app crash issues during playback and search.\n\n2. Fixed other functional glitches.\n\n\n\nWe are always striving to resolve issues as quickly as possible. Please bear with us.",
+				"ko": "다음 사항이 개선 되었습니다.\n\n1.재생 및 검색시 앱 종료 문제 보완.\n\n2. 기타 오작동 문제 수정.\n\n\n\n문제가 생기면 항상 빨리 고치려고 노력중입니다. 여유를 가져주세요."
 			}
 		},
     "공지":
