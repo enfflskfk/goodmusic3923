@@ -14,10 +14,10 @@
 		},
     "공지":
     {
-      "등록" : "26.05.05 1",
+      "등록" : "26.05.07 1",
       "메세지" : {
-        "all" : "A new update has been released as of May 5. If you are encountering any errors, please update to the latest version. We are currently identifying and fixing other potential causes one by one. We would greatly appreciate your patience while we resolve these issues. We apologize for any inconvenience.",
-        "ko" : "5월 5일 업데이트가 있습니다. 오류가 있으신분은 업데이트 후 이용하시기 바랍니다. 불편을 드려 송구합니다. 다른 원인들도 하나하나 점검해서 수정중이니 여유를 가지고 기다려 주시면 감사하겠습니다."
+        "all" : "A new update was released on May 7th. If the app crashes during playback or search, please install the latest update.",
+        "ko" : "5월 7일 업데이트 파일이 있습니다. 재생 또는 검색중 앱이 종료된다면 업데이트 받으시기 바랍니다."
       }
     },
 		"환경":
