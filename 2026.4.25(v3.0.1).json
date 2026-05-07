@@ -14,10 +14,10 @@
 		},
     "공지":
     {
-      "등록" : "26.05.07 1",
+      "등록" : "26.05.07 2",
       "메세지" : {
         "all" : "A new update was released on May 7th. If the app crashes during playback or search, please install the latest update.",
-        "ko" : "5월 7일 업데이트 파일이 있습니다. 재생 또는 검색중 앱이 종료된다면 업데이트 받으시기 바랍니다."
+        "ko" : "5월 7일 업데이트 파일이 있습니다.\n\n재생 또는 검색중 앱이 종료된다면 업데이트 받으시기 바랍니다.\n\n다른 문제는 발생한다면, 로그확인 후 빠른 수정 하도록 하겠습니다."
       }
     },
 		"환경":
