@@ -16,9 +16,9 @@
     {
       "등록" : "26.05.07 2",
       "메세지" : {
-        "all" : "A new update was released on May 7th. If the app crashes during playback or search, please install the latest update.",
-        "ko" : "음악 재생시 앱이 종료되는 문제가 발생하고 있습니다. 조속히 문제를 수정하도록 하겠습니다.\n\n여유를 가지시고 조금 만 더 기다려주세요.\n\n다른 문제는 발생한다면, 로그확인 후 빠른 수정 하도록 하겠습니다."
-      }
+    "all": "A new update was released on May 10th(v4.0.3). This update includes fixes for long file saving issues, Jupiter ringtone errors, filename application bugs, and various stability improvements. If you're experiencing crashes, please install the latest version for a smoother experience.",
+    "ko": "5월 10일(v4.0.3) 업데이트가 있습니다.\n\n1. 긴 파일 저장 문제.\n2. 목성 벨소리 문제.\n 3. 파일명 변경 적용 문제.4. 기타 앱 종료 버그 등.\n\n이용에 불편아신 분은 업데이트 받으시기 바랍니다."
+}
     },
 		"환경":
 		{
