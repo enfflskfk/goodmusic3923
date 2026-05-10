@@ -17,7 +17,7 @@
       "등록" : "26.05.07 2",
       "메세지" : {
     "all": "A new update was released on May 10th(v4.0.3). This update includes fixes for long file saving issues, Jupiter ringtone errors, filename application bugs, and various stability improvements. If you're experiencing crashes, please install the latest version for a smoother experience.",
-    "ko": "5월 10일(v4.0.3) 업데이트가 있습니다.\n\n1. 긴 파일 저장 문제.\n2. 목성 벨소리 문제.\n 3. 파일명 변경 적용 문제.4. 기타 앱 종료 버그 등.\n\n이용에 불편이 있는 분은 업데이트 받으시기 바랍니다."
+    "ko": "5월 10일(v4.0.3) 업데이트가 있습니다.\n\n1. 긴 파일명 저장 문제.\n2. 목성 벨소리 문제.\n 3. 파일명 변경 적용 문제.4. 기타 앱 종료 버그 등.\n\n이용에 불편이 있는 분은 업데이트 받으시기 바랍니다."
 }
     },
 		"환경":
