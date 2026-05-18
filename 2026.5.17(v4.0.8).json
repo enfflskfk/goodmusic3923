@@ -14,7 +14,7 @@
 		},
     "공지":
     {
-      "등록" : "26.05.17 1",
+      "등록" : "26.05.18 1",
       "메세지" : {
     "all": "The v4.0.9 update is available on May 18.\n\n1. Title display error fix.\n2. Download speed improvement.\n3. Other app termination bugs, etc.\n\nThose who are experiencing inconvenience, please get the update. Because we changed many parts due to Google policy, many errors are occurring. We are fixing them one by one, so it would be good if you could wait with patience.",
     "ko": "5월 18일(v4.0.9) 업데이트가 있습니다.\n\n1. 제목 표시 오류 수정.\n2. 다운로드 속도 개선.\n3. 기타 앱 종료 버그 등.\n\n이용에 불편이 있는 분은 업데이트 받으시기 바랍니다. 구글 정책으로 인해 많은 부분을 변경 하다보니 오류가 많이 발생되고 있습니다. 하나하나 수정중에 있으니 여유를 가지고 기다려주시면 좋겠습니다."
