@@ -79,7 +79,7 @@
 									"주소": "https://www.youtube.com/sw.js_data?hl=en",
 									"메서드": "GET",
 									"헤더": {
-										"User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 12L; GB) gzip",
+										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
 										"Accept": "*/*"
 									},
 									"Payload": "",
@@ -90,7 +90,7 @@
 									"주소": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w&hl=en",
 									"메서드": "POST",
 									"헤더": {
-										"User-Agent": "com.google.android.youtube/20.10.38 (Linux; U; Android 12L; GB) gzip",
+										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
 										"X-Goog-Visitor-Id": "<<visitorData>>",
 										"Content-Type": "application/json"
 									},
