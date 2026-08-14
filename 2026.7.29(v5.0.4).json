@@ -14,10 +14,10 @@
 		},
     "공지":
     {
-      "등록" : "26.08.14 1",
+      "등록" : "26.08.14 2",
       "메세지" : {
     "all": "The v4.0.9 update is available on May 18.\n\n1. Title display error fix.\n2. Download speed improvement.\n3. Other app termination bugs, etc.\n\nThose who are experiencing inconvenience, please get the update. Because we changed many parts due to Google policy, many errors are occurring. We are fixing them one by one, so it would be good if you could wait with patience.",
-    "ko": "재생 및 다운로드 안되는 문제를 현재 수정중에 있습니다. 이용에 불편을 드려 죄송합니다."
+    "ko": "지구 재생 및 다운로드 안되는 문제를 현재 수정중에 있습니다. 빠르면 새벽 늦어도 15일 오전중으로 되도록 노력하겠습니다. 이용에 불편을 드려 죄송합니다."
 }
     },
 		"환경":
