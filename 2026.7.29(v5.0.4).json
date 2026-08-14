@@ -77,7 +77,7 @@
 							"단계": [
 								{
 									"이름": "1단계: 인증 데이터 확보 (sw.js_data)",
-									"주소": "https://www.youtube.com/sw.js_data?hl=en",
+									"주소": "https://www.youtube.com/sw.js_data",
 									"메서드": "GET",
 									"헤더": {
 										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
@@ -88,7 +88,7 @@
 								},
 								{
 									"이름": "2단계: 데이터 요청 (Player API POST)",
-									"주소": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w&hl=en",
+									"주소": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
 									"메서드": "POST",
 									"헤더": {
 										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
