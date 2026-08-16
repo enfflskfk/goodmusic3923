@@ -14,10 +14,10 @@
 		},
     "공지":
     {
-      "등록" : "26.08.14 2",
+      "등록" : "26.08.16 1",
       "메세지" : {
-    "all": "The v4.0.9 update is available on May 18.\n\n1. Title display error fix.\n2. Download speed improvement.\n3. Other app termination bugs, etc.\n\nThose who are experiencing inconvenience, please get the update. Because we changed many parts due to Google policy, many errors are occurring. We are fixing them one by one, so it would be good if you could wait with patience.",
-    "ko": "지구 재생 및 다운로드 안되는 문제를 현재 수정중에 있습니다. 빠르면 새벽 늦어도 15일 오전중으로 되도록 노력하겠습니다. 이용에 불편을 드려 죄송합니다."
+    "all": "2026. 08. 16\n\nIf you are experiencing any issues while using the app (such as being unable to retrieve file information), please try updating to the latest version.\n\nIf the same issue persists after updating, please leave a review and we will take the necessary steps to resolve it.\n\nWe apologize for any inconvenience caused.",
+    "ko": "2026. 08. 16\n\n지구 사용에 불편함이 있으신분은 (파일 정보를 가져올 수 없다 등) 새로운 버전으로 업데이트 해보시기 바랍니다.\n\n또 한, 업데이트 후에도 같은 문제가 발생하면 리뷰를 남겨주시면 조치하겠습니다.\n\n 이용에 불편을 드려 죄송합니다."
 }
     },
 		"환경":
