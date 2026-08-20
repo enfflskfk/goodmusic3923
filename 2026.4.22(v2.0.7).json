@@ -50,74 +50,79 @@
 					"제목항목2": "headline",
 					"영화구분3": "shortBylineText"
 				},
-				"요청": {
-					"설정": {
-						"사용모드": "일반",
-						"반복횟수": 2,
-						"요청딜레이": 100,
-						"오디오트랙선택": true
-					},
-					"모드정의": {
-						"일반": {
-							"이름": "일반 모드 (Android 15 / sw.js_data)",
-							"단계": [
-								{
-									"이름": "1단계: 인증 데이터 확보 (sw.js_data)",
-									"주소": "https://www.youtube.com/sw.js_data",
-									"메서드": "GET",
-									"헤더": {
-										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
-										"Accept": "*/*"
-									},
-									"Payload": "",
-									"추출키": "sw_data"
-								},
-								{
-									"이름": "2단계: 데이터 요청 (Player API POST)",
-									"주소": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w",
-									"메서드": "POST",
-									"헤더": {
-										"User-Agent": "com.google.android.youtube/1.60.19 (Linux; U; Android 12L; GB) gzip",
-										"X-Goog-Visitor-Id": "<<visitorData>>",
-										"Content-Type": "application/json"
-									},
-									"Payload": "{'videoId': '<<videoId>>', 'contentCheckOk': true, 'context': {'client': {'clientName': 'ANDROID_VR', 'clientVersion': '1.60.19', 'deviceMake': 'Oculus', 'deviceModel': 'Quest 3', 'osName': 'Android', 'osVersion': '12L', 'platform': 'MOBILE', 'visitorData': 'CgtmLWxQc0oxdHhDYyjv2fvTBjIKCgJLUhIEGgAgMGLfAgrcAjIxLllUPURFRWN6amxaaG9udGdnQW1oZ2R1UFNURFNmc05ERF9PcFhPOFczaHpqSHQwdEZXWWdfY0paQ2pseWw2STZjaTczbHpVRmJzRGxSZVJONDdaTWNibl82OGhxWDhiQ2JuVFFfN0xRaHd0OTRzRGhaVUUtOWcxLXZMMmNlV3R1R1VnRl9FenF2X2FNRXRaTEFoUENsMGctNFFDeVhTcjA1UWtKVUNoeXE0SWlNTnI1M3E2Uy1fMmlqd0pKTXNsVXJlVWhCTmNwdUo0Rk43LUZCRGp3cHlPLTkya1dnSFVwRDVhTWdwMWRVaHh0ay1uWklZZWw1V3hacFZOaFplYXlLd3daYV9oVmRoYzZjN21DT2taUkMtVE5HZDZNRGdkb2lGT3JheHlaV0JOUktVa2dRVnRabUZXang2aFY4UlB4R0x5RjE5MncxZE1TclFyYVVfZEhPNnVMZw', 'hl': '<<hl>>', 'gl': '<<gl>>', 'utcOffsetMinutes': 0}}}"
-								}
-							]
-						},
-						"확장": {
-							"이름": "확장 모드 (Android 16 / SDK 36)",
-							"단계": [
-								{
-									"이름": "1단계: 보안 토큰 발급 (visitor_id)",
-									"주소": "https://youtubei.googleapis.com/youtubei/v1/visitor_id?prettyPrint=false",
-									"메서드": "POST",
-									"헤더": {
-										"User-Agent": "com.google.visionos.youtube/1.02(RealityDevice14,1; U; CPU visionOS 25_6_0 like Mac OS X; GB)",
-										"Content-Type": "application/json",
-										"X-Goog-Api-Format-Version": "2"
-									},
-									"Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl': '<<hl>>','gl': '<<gl>>','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
-									"추출키": "visitorData"
-								},
-								{
-									"이름": "2단계: 데이터 요청 (Reel Watch)",
-									"주소": "https://youtubei.googleapis.com/youtubei/v1/player?prettyPrint=false&t=gtlbVwr59Pk8&id=<<videoId>>",
-									"메서드": "POST",
-									"헤더": {
-										"User-Agent": "com.google.android.youtube/20.01.83 (Linux; U; Android 16; GB) gzip",
-										"X-Goog-Visitor-Id": "<<visitorData>>",
-										"Content-Type": "application/json",
-										"X-Goog-Api-Format-Version": "2"
-									},
-									"Payload": "{'context':{'client':{'clientName':'VISIONOS','clientVersion':'1.02','clientScreen':'WATCH','platform':'MOBILE','visitorData':'CgtTdUxSSjAtaGNKZyiC7uzTBjIKCgJLUhIEGgAgIWLfAgrcAjIwLllUPVZaSUZHSHlYaXE4X3BaczhLaWEtRTkyRjY4R3dsdFNxQVU4Yk1GR0NWZUdhaXFCdGt2Rjg3dDRZT2dwMjNvbXJ5WWxpb0ZtNkpONmhydVI2RWxDRi0wTWpQNlJNcV9nZno0UDRmcE5odFFUc3pnVEl1LXNVbWZ6ZkJQaHhGcnhzX2FuVXJ4aUdYMTBUS3MwXzVYVzRfSUFuT05uQmNnczNfZU9YNE1tTHdDUk1TNVliZllsaG12bl85YlVLV0lUWlRUYjZVRE5Za3l0RXZyMmRkcjNYbjhqWGx2QlNpTzg0SHk2TkYwX01zTmUxNWtWSVM2MmVBTmpqUzVVNkR6LU41NGJTOHBZX0RXbk4yLS1JNFVvTVNzOTZ1Y2NjN21hbURzUXNEUzRmWDgtbFRfcXhsZVBBNUpUTk9tT1ZhNDFCcmNlZnM5ZUplSC04RlpUM2tPVkQzQQ%3D%3D','deviceMake':'Apple','deviceModel':'RealityDevice14,1','osName':'visionOS','osVersion':'25.6.0.23O471','hl':'en-GB','gl':'US','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'videoId':'<<videoId>>','cpn':'I-CWuuQ0eVrXzbyM','contentCheckOk':true,'racyCheckOk':true}"
-								}
-							]
-						}
-					}
-				}
-			}
-		},
+                "요청": {
+                    "설정": {
+                        "사용모드": "일반",
+                        "반복횟수": 2,
+                        "요청딜레이": 100,
+                        "오디오트랙선택": true
+                    },
+                    "모드정의": {
+                        "일반": {
+                            "이름": "일반 모드 (Android 15 / sw.js_data)",
+                            "단계": [
+                                {
+                                    "이름": "1단계: 보안 토큰 발급 (visitor_id)",
+                                    "주소": "https://youtubei.googleapis.com/youtubei/v1/visitor_id?prettyPrint=false",
+                                    "메서드": "POST",
+                                    "헤더": {
+                                        "User-Agent": "com.google.visionos.youtube/1.02(RealityDevice14,1; U; CPU visionOS 25_6_0 like Mac OS X; GB)",
+                                        "Content-Type": "application/json",
+                                        "X-Goog-Api-Format-Version": "2"
+                                    },
+                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl': '<<hl>>','gl': '<<gl>>','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
+                                    "추출키": "visitorData"
+                                },
+                                {
+                                    "이름": "2단계: 데이터 요청 (Reel Watch)",
+                                    "주소": "https://youtubei.googleapis.com/youtubei/v1/player?prettyPrint=false&id=<<videoId>>",
+                                    "메서드": "POST",
+                                    "헤더": {
+                                        "User-Agent": "com.google.visionos.youtube/1.02(RealityDevice14,1; U; CPU visionOS 25_6_0 like Mac OS X; GB)",
+                                        "X-Goog-Visitor-Id": "<<visitorData>>",
+                                        "Content-Type": "application/json",
+                                        "X-Goog-Api-Format-Version": "2"
+                                    },
+                                    "Payload": "{'context':{'client':{'clientName':'VISIONOS','clientVersion':'1.02','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','deviceMake':'Apple','deviceModel':'RealityDevice14,1','osName':'visionOS','osVersion':'25.6.0.23O471','hl':'en-GB','gl':'US','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'videoId':'<<videoId>>','cpn':'I-CWuuQ0eVrXzbyM','contentCheckOk':true,'racyCheckOk':true}"
+                                }
+                            ]
+                        },
+                        "확장": {
+                            "이름": "확장 모드 (Android 16 / SDK 36)",
+                            "단계": [
+                                {
+                                    "이름": "1단계: 보안 토큰 발급 (visitor_id)",
+                                    "주소": "https://youtubei.googleapis.com/youtubei/v1/visitor_id?prettyPrint=false",
+                                    "메서드": "POST",
+                                    "헤더": {
+                                        "User-Agent": "com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)",
+                                        "Content-Type": "application/json",
+                                        "X-Goog-Api-Format-Version": "2"
+                                    },
+                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl': '<<hl>>','gl': '<<gl>>','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
+                                    "추출키": "visitorData"
+                                },
+                                {
+                                    "이름": "2단계: 데이터 요청 (Reel Watch)",
+                                    "주소": "https://youtubei.googleapis.com/youtubei/v1/reel/reel_item_watch?prettyPrint=false&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+                                    "메서드": "POST",
+                                    "헤더": {
+                                        "User-Agent": "com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)",
+                                        "X-Goog-Api-Format-Version": "2",
+                                        "Referer": "https://www.youtube.com/",
+                                        "Origin": "https://www.youtube.com/",
+                                        "X-Youtube-Client-Version": "20.10.4",
+                                        "X-Youtube-Client-Name": "5",
+                                        "Content-Type": "application/json; charset=utf-8"
+                                    },
+                                    "Payload": "{'context':{'client':{'clientName':'IOS','clientVersion':'20.10.4','hl':'<<hl>>','gl':'<<gl>>','userAgent':'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)','timeZone':'Asia/Seoul','utcOffsetMinutes':540,'deviceMake':'Apple','deviceModel':'iPhone16,2','osName':'iPhone','osVersion':'18.3.2.22D82'}},'params':'CAUwAg==','playerRequest':{'videoId':'<<videoId>>'},'disablePlayerResponse':false}",
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
 		"광고": {
 			"애드몹": {
 				"사용": true,
