@@ -82,7 +82,7 @@
                                         "Content-Type": "application/json",
                                         "X-Goog-Api-Format-Version": "2"
                                     },
-                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl': '<<hl>>','gl': '<<gl>>','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
+                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl':'en','gl':'US','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
                                     "추출키": "visitorData"
                                 },
                                 {
@@ -95,7 +95,7 @@
                                         "Content-Type": "application/json",
                                         "X-Goog-Api-Format-Version": "2"
                                     },
-                                    "Payload": "{'context':{'client':{'clientName':'VISIONOS','clientVersion':'1.02','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','deviceMake':'Apple','deviceModel':'RealityDevice14,1','osName':'visionOS','osVersion':'25.6.0.23O471','hl':'en-GB','gl':'US','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'videoId':'<<videoId>>','cpn':'I-CWuuQ0eVrXzbyM','contentCheckOk':true,'racyCheckOk':true}"
+                                    "Payload": "{'context':{'client':{'clientName':'VISIONOS','clientVersion':'1.02','clientScreen':'WATCH','platform':'MOBILE','visitorData':'<<visitorData>>','deviceMake':'Apple','deviceModel':'RealityDevice14,1','osName':'visionOS','osVersion':'25.6.0.23O471','hl':'en','gl':'US','utcOffsetMinutes':0},'request':{'internalExperimentFlags':[],'useSsl':true},'user':{'lockedSafetyMode':false}},'videoId':'<<videoId>>','cpn':'I-CWuuQ0eVrXzbyM','contentCheckOk':true,'racyCheckOk':true}"
                                 }
                             ]
                         },
@@ -111,7 +111,7 @@
                                         "Content-Type": "application/json",
                                         "X-Goog-Api-Format-Version": "2"
                                     },
-                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl': '<<hl>>','gl': '<<gl>>','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
+                                    "Payload": "{'context': {'client': {'clientName': 'VISIONOS','clientVersion': '1.02','clientScreen': 'WATCH','platform': 'MOBILE','deviceMake': 'Apple','deviceModel': 'RealityDevice14,1','osName': 'visionOS','osVersion': '25.6.0.23O471','hl':'en','gl':'US','utcOffsetMinutes': 0},'request': {'internalExperimentFlags': [],'useSsl': true},'user': {'lockedSafetyMode': false}}}",
                                     "추출키": "visitorData"
                                 },
                                 {
@@ -127,7 +127,7 @@
                                         "X-Youtube-Client-Name": "5",
                                         "Content-Type": "application/json; charset=utf-8"
                                     },
-                                    "Payload": "{'context':{'client':{'clientName':'IOS','clientVersion':'20.10.4','hl':'<<hl>>','gl':'<<gl>>','userAgent':'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)','timeZone':'Asia/Seoul','utcOffsetMinutes':540,'deviceMake':'Apple','deviceModel':'iPhone16,2','osName':'iPhone','osVersion':'18.3.2.22D82'}},'params':'CAUwAg==','playerRequest':{'videoId':'<<videoId>>'},'disablePlayerResponse':false}",
+                                    "Payload": "{'context':{'client':{'clientName':'IOS','clientVersion':'20.10.4','hl':'en','gl':'US','userAgent':'com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)','timeZone':'Asia/Seoul','utcOffsetMinutes':540,'deviceMake':'Apple','deviceModel':'iPhone16,2','osName':'iPhone','osVersion':'18.3.2.22D82'}},'params':'CAUwAg==','playerRequest':{'videoId':'<<videoId>>'},'disablePlayerResponse':false}",
                                 }
                             ]
                         }
